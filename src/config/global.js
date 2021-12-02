@@ -4,7 +4,7 @@ export default {
     descripcionCurso:
       'Los patrones de diseño de <b>software</b> surgen a partir de experiencias desarrolladas en la industria y representan un conjunto de formas estandarizadas, probadas y repetibles, que permiten resolver uno o varios problemas particulares que se presentan en el diseño del <em>software</em>.',
     imagenBannerPrincipal: require('@/assets/curso/banner-img.svg'),
-    fondoBannerPrincipal: require('@/assets/curso/banner-bg-svg'),
+    fondoBannerPrincipal: require('@/assets/curso/banner-bg.svg'),
   },
   menuPrincipal: {
     menu: [

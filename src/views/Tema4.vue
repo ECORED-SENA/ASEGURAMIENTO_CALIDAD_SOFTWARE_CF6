@@ -4,11 +4,12 @@
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
     
     
+
 </template>
 
 <script>
 export default {
-  name: 'Tema2',
+  name: 'Tema4',
   data: () => ({
     // variables de vue
   }),
