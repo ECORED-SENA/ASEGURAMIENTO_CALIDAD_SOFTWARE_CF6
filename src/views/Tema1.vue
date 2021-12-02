@@ -9,8 +9,7 @@
 <script>
 export default {
   name: 'Tema1',
-  components: {
-  },
+  components: {},
   data: () => ({
     // variables de vue
   }),
