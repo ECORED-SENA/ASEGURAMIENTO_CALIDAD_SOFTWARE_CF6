@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="281" height="147" viewBox="0 0 281 147">
+  <g id="Grupo_106883" data-name="Grupo 106883" transform="translate(-600 -2813.133)">
+    <g id="Rectángulo_45442" data-name="Rectángulo 45442" transform="translate(600 2813.133)" fill="#ffca28" stroke="#12263f" stroke-linejoin="round" stroke-width="2">
+      <rect width="281" height="37" stroke="none"/>
+      <rect x="1" y="1" width="279" height="35" fill="none"/>
+    </g>
+    <g id="Rectángulo_45443" data-name="Rectángulo 45443" transform="translate(600 2847.133)" fill="#fff5d8" stroke="#12263f" stroke-linejoin="round" stroke-width="2">
+      <rect width="281" height="113" stroke="none"/>
+      <rect x="1" y="1" width="279" height="111" fill="none"/>
+    </g>
+    <text id="Deployment_specification" data-name="Deployment specification" transform="translate(642.5 2838.133)" fill="#12263f" font-size="18" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="0">Deployment specification</tspan></text>
+    <text id="_Attribute_1:_Type_Attribute_2:_Type_-_Attribute_3:_Type_-_Attribute_4:_Type" data-name="+ Attribute 1: Type
++ Attribute 2: Type
+- Attribute 3: Type
+- Attribute 4: Type" transform="translate(617 2879.572)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">+ Attribute 1: Type</tspan><tspan x="0" y="20">+ Attribute 2: Type</tspan><tspan x="0" y="40">- Attribute 3: Type</tspan><tspan x="0" y="60">- Attribute 4: Type</tspan></text>
+  </g>
+</svg>

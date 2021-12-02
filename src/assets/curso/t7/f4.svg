@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="297.931" height="270.8" viewBox="0 0 297.931 270.8">
+  <g id="Grupo_106882" data-name="Grupo 106882" transform="translate(-951 -2196.333)">
+    <g id="Rectángulo_45431" data-name="Rectángulo 45431" transform="translate(951 2209.133)" fill="#b6f7ff" stroke="#12263f" stroke-linejoin="round" stroke-width="2">
+      <rect width="281" height="37" stroke="none"/>
+      <rect x="1" y="1" width="279" height="35" fill="none"/>
+    </g>
+    <g id="Rectángulo_45432" data-name="Rectángulo 45432" transform="translate(951 2243.133)" fill="#b6f7ff" stroke="#12263f" stroke-linejoin="round" stroke-width="2">
+      <rect width="281" height="113" stroke="none"/>
+      <rect x="1" y="1" width="279" height="111" fill="none"/>
+    </g>
+    <g id="Rectángulo_45440" data-name="Rectángulo 45440" transform="translate(951 2354.133)" fill="#b6f7ff" stroke="#12263f" stroke-linejoin="round" stroke-width="2">
+      <rect width="281" height="113" stroke="none"/>
+      <rect x="1" y="1" width="279" height="111" fill="none"/>
+    </g>
+    <path id="Trazado_217609" data-name="Trazado 217609" d="M6112-11005l16.034-12.8,279.672.246L6391.343-11005Z" transform="translate(-5159.775 13215.133)" fill="#4dd0e1" stroke="#12263f" stroke-linejoin="round" stroke-width="2"/>
+    <path id="Trazado_217610" data-name="Trazado 217610" d="M6408.93-11017.8l-16.49,13.12v255.147l16.49-13.92Z" transform="translate(-5161 13215.133)" fill="#4dd0e1" stroke="#12263f" stroke-linejoin="round" stroke-width="2"/>
+    <text id="Device" transform="translate(1070 2234.133)" fill="#12263f" font-size="18" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="0">Device</tspan></text>
+    <text id="_Attribute_1:_Type_Attribute_2:_Type_Attribute_3:_Type_Attribute_4:_Type" data-name="+ Attribute 1: Type
++ Attribute 2: Type
++ Attribute 3: Type
++ Attribute 4: Type" transform="translate(968 2275.572)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">+ Attribute 1: Type</tspan><tspan x="0" y="20">+ Attribute 2: Type</tspan><tspan x="0" y="40">+ Attribute 3: Type</tspan><tspan x="0" y="60">+ Attribute 4: Type</tspan></text>
+    <text id="_Operation_1_arg_list_:_return_Operation_2_arg_list_:_return_Operation_3_arg_list_:_return_Operation_4_arg_list_:_return" data-name="+ Operation 1 ( arg list ) : return
++ Operation 2 ( arg list ) : return
++ Operation 3 ( arg list ) : return
++ Operation 4 ( arg list ) : return" transform="translate(968 2384.572)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">+ Operation 1 ( arg list ) : return</tspan><tspan x="0" y="20">+ Operation 2 ( arg list ) : return</tspan><tspan x="0" y="40">+ Operation 3 ( arg list ) : return</tspan><tspan x="0" y="60">+ Operation 4 ( arg list ) : return</tspan></text>
+  </g>
+</svg>

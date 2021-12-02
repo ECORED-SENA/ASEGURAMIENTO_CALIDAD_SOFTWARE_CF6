@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="546" height="280" viewBox="0 0 546 280">
+  <g id="Grupo_106853" data-name="Grupo 106853" transform="translate(-821 -11756)">
+    <rect id="Rectángulo_43066" data-name="Rectángulo 43066" width="160" height="48" rx="20" transform="translate(1014 11756)" fill="#4dd0e1" opacity="0.5"/>
+    <rect id="Rectángulo_43070" data-name="Rectángulo 43070" width="160" height="48" rx="20" transform="translate(1192 11786)" fill="#4dd0e1" opacity="0.5"/>
+    <rect id="Rectángulo_43071" data-name="Rectángulo 43071" width="160" height="48" rx="20" transform="translate(1192 11957)" fill="#4dd0e1" opacity="0.5"/>
+    <rect id="Rectángulo_43068" data-name="Rectángulo 43068" width="160" height="48" rx="20" transform="translate(1014 11988)" fill="#4dd0e1" opacity="0.5"/>
+    <rect id="Rectángulo_43067" data-name="Rectángulo 43067" width="160" height="48" rx="20" transform="translate(1207 11872)" fill="#4dd0e1" opacity="0.5"/>
+    <rect id="Rectángulo_43069" data-name="Rectángulo 43069" width="160" height="48" rx="20" transform="translate(821 11871)" fill="#4dd0e1" opacity="0.5"/>
+    <text id="Classes" transform="translate(1023 11771)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-28.309" y="17">Classes</tspan></text>
+    <text id="Data_abstraction" data-name="Data abstraction" transform="translate(1203 11801)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-59.172" y="17">Data abstraction</tspan></text>
+    <text id="Information_hiding" data-name="Information hiding" transform="translate(1201 11972)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-66.43" y="17">Information hiding</tspan></text>
+    <text id="Inheritance" transform="translate(1023 12003)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-40.621" y="17">Inheritance</tspan></text>
+    <text id="Encapsulation" transform="translate(1216 11886)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-50.773" y="17">Encapsulation</tspan></text>
+    <text id="Polymorphism" transform="translate(830 11886)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-52.277" y="17">Polymorphism</tspan></text>
+    <g id="Grupo_99531" data-name="Grupo 99531" transform="translate(1090.667 11817.2)">
+      <g id="Grupo_99295" data-name="Grupo 99295" transform="translate(0.334 -12.2)">
+        <path id="Polígono_36" data-name="Polígono 36" d="M6.5,0,13,11H0Z" transform="translate(0 0)" fill="#ffca28"/>
+        <rect id="Rectángulo_42834" data-name="Rectángulo 42834" width="4" height="16" transform="translate(4 9)" fill="#ffca28"/>
+        <rect id="Rectángulo_42835" data-name="Rectángulo 42835" width="4" height="24.595" transform="translate(4 21.914)" fill="#ffca28"/>
+      </g>
+      <g id="Grupo_99535" data-name="Grupo 99535" transform="translate(0.333 121.8)">
+        <path id="Polígono_36-2" data-name="Polígono 36" d="M6.5,0,13,11H0Z" transform="translate(13 46.509) rotate(180)" fill="#ffca28"/>
+        <rect id="Rectángulo_42834-2" data-name="Rectángulo 42834" width="4" height="16" transform="translate(4 21.509)" fill="#ffca28"/>
+        <rect id="Rectángulo_42835-2" data-name="Rectángulo 42835" width="4" height="24.595" transform="translate(4 0)" fill="#ffca28"/>
+      </g>
+    </g>
+    <g id="Grupo_99534" data-name="Grupo 99534" transform="translate(1196.196 11890.167) rotate(90)">
+      <g id="Grupo_99295-2" data-name="Grupo 99295" transform="translate(0.334 -8.45)">
+        <path id="Polígono_36-3" data-name="Polígono 36" d="M6.5,0,13,11H0Z" transform="translate(0 0.25)" fill="#ffca28"/>
+        <rect id="Rectángulo_42834-3" data-name="Rectángulo 42834" width="4" height="16" transform="translate(4 5.25)" fill="#ffca28"/>
+        <rect id="Rectángulo_42835-3" data-name="Rectángulo 42835" width="4" height="32.703" transform="translate(4 7.849)" fill="#ffca28"/>
+      </g>
+    </g>
+    <g id="Grupo_99536" data-name="Grupo 99536" transform="translate(1024 11890.501) rotate(90)">
+      <g id="Grupo_99295-3" data-name="Grupo 99295" transform="translate(0 0)">
+        <path id="Polígono_36-4" data-name="Polígono 36" d="M6.5,0,13,11H0Z" transform="translate(13 40.301) rotate(180)" fill="#ffca28"/>
+        <rect id="Rectángulo_42834-4" data-name="Rectángulo 42834" width="4" height="16" transform="translate(4 19.301)" fill="#ffca28"/>
+        <rect id="Rectángulo_42835-4" data-name="Rectángulo 42835" width="4" height="32.703" transform="translate(4)" fill="#ffca28"/>
+      </g>
+    </g>
+    <g id="Grupo_99532" data-name="Grupo 99532" transform="translate(1194.306 11949.336) rotate(130)">
+      <g id="Grupo_99295-4" data-name="Grupo 99295" transform="translate(0.334 -0.2)">
+        <path id="Polígono_36-5" data-name="Polígono 36" d="M6.5,0,13,11H0Z" transform="translate(0 0)" fill="#ffca28"/>
+        <rect id="Rectángulo_42834-5" data-name="Rectángulo 42834" width="4" height="16" transform="translate(4 5)" fill="#ffca28"/>
+        <rect id="Rectángulo_42835-5" data-name="Rectángulo 42835" width="4" height="51.819" transform="translate(4 7.599)" fill="#ffca28"/>
+      </g>
+    </g>
+    <g id="Grupo_99533" data-name="Grupo 99533" transform="translate(1152.703 11874.816) rotate(-130)">
+      <g id="Grupo_99295-5" data-name="Grupo 99295" transform="translate(0 -6.405)">
+        <path id="Polígono_36-6" data-name="Polígono 36" d="M6.5,0,13,11H0Z" transform="translate(13 60.634) rotate(180)" fill="#ffca28"/>
+        <rect id="Rectángulo_42834-6" data-name="Rectángulo 42834" width="4" height="16" transform="translate(4 39.634)" fill="#ffca28"/>
+        <rect id="Rectángulo_42835-6" data-name="Rectángulo 42835" width="4" height="53.035" transform="translate(4 0)" fill="#ffca28"/>
+      </g>
+    </g>
+    <g id="Elipse_6369" data-name="Elipse 6369" transform="translate(1023 11850)" fill="#fff" stroke="#4dd0e1" stroke-width="4">
+      <ellipse cx="73" cy="45.5" rx="73" ry="45.5" stroke="none"/>
+      <ellipse cx="73" cy="45.5" rx="71" ry="43.5" fill="none"/>
+    </g>
+    <text id="OOP" transform="translate(1042 11884)" fill="#12263f" font-size="20" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-20.259" y="21">OOP</tspan></text>
+  </g>
+</svg>

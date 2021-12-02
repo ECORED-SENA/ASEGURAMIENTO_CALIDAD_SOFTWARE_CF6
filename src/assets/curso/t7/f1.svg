@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="297.931" height="126.479" viewBox="0 0 297.931 126.479">
+  <g id="Grupo_106879" data-name="Grupo 106879" transform="translate(-802 -813.399)">
+    <g id="Rectángulo_45431" data-name="Rectángulo 45431" transform="translate(802 826.199)" fill="#b6f7ff" stroke="#12263f" stroke-linejoin="round" stroke-width="2">
+      <rect width="281" height="37" stroke="none"/>
+      <rect x="1" y="1" width="279" height="35" fill="none"/>
+    </g>
+    <g id="Rectángulo_45432" data-name="Rectángulo 45432" transform="translate(802 860.199)" fill="#b6f7ff" stroke="#12263f" stroke-linejoin="round" stroke-width="2">
+      <rect width="281" height="79" stroke="none"/>
+      <rect x="1" y="1" width="279" height="77" fill="none"/>
+    </g>
+    <path id="Trazado_217609" data-name="Trazado 217609" d="M6112-11005l16.034-12.8,279.672.246L6391.343-11005Z" transform="translate(-5308.775 11832.199)" fill="#4dd0e1" stroke="#12263f" stroke-linejoin="round" stroke-width="2"/>
+    <path id="Trazado_217610" data-name="Trazado 217610" d="M6408.93-11017.8l-16.49,13.12v111.359l16.49-13.92Z" transform="translate(-5310 11832.199)" fill="#4dd0e1" stroke="#12263f" stroke-linejoin="round" stroke-width="2"/>
+    <text id="Node" transform="translate(921 851.199)" fill="#12263f" font-size="18" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="0">Node</tspan></text>
+  </g>
+</svg>

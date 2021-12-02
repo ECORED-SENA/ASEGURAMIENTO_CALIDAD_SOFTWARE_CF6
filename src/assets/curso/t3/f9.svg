@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="715" height="281" viewBox="0 0 715 281">
+  <g id="Grupo_106864" data-name="Grupo 106864" transform="translate(-180 -4121)">
+    <rect id="Rectángulo_45290" data-name="Rectángulo 45290" width="715" height="281" transform="translate(180 4121)" fill="#f3f9ff"/>
+    <g id="Grupo_104458" data-name="Grupo 104458" transform="translate(63)">
+      <g id="Rectángulo_45222" data-name="Rectángulo 45222" transform="translate(230 4159)" fill="#fff" stroke="#727997" stroke-width="2">
+        <path d="M9,0H157a9,9,0,0,1,9,9V56a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V9A9,9,0,0,1,9,0Z" stroke="none"/>
+        <path d="M9,1H157a8,8,0,0,1,8,8V54a1,1,0,0,1-1,1H2a1,1,0,0,1-1-1V9A8,8,0,0,1,9,1Z" fill="none"/>
+      </g>
+      <g id="Rectángulo_45291" data-name="Rectángulo 45291" transform="translate(553 4159)" fill="#fff" stroke="#727997" stroke-width="2">
+        <path d="M9,0H157a9,9,0,0,1,9,9V56a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V9A9,9,0,0,1,9,0Z" stroke="none"/>
+        <path d="M9,1H157a8,8,0,0,1,8,8V54a1,1,0,0,1-1,1H2a1,1,0,0,1-1-1V9A8,8,0,0,1,9,1Z" fill="none"/>
+      </g>
+      <g id="Rectángulo_45226" data-name="Rectángulo 45226" transform="translate(230 4213)" fill="#4dd0e1" stroke="#727997" stroke-width="2">
+        <path d="M0,0H166a0,0,0,0,1,0,0V64a9,9,0,0,1-9,9H9a9,9,0,0,1-9-9V0A0,0,0,0,1,0,0Z" stroke="none"/>
+        <path d="M2,1H164a1,1,0,0,1,1,1V64a8,8,0,0,1-8,8H9a8,8,0,0,1-8-8V2A1,1,0,0,1,2,1Z" fill="none"/>
+      </g>
+      <g id="Rectángulo_45292" data-name="Rectángulo 45292" transform="translate(553 4213)" fill="#4dd0e1" stroke="#727997" stroke-width="2">
+        <path d="M0,0H166a0,0,0,0,1,0,0V64a9,9,0,0,1-9,9H9a9,9,0,0,1-9-9V0A0,0,0,0,1,0,0Z" stroke="none"/>
+        <path d="M2,1H164a1,1,0,0,1,1,1V64a8,8,0,0,1-8,8H9a8,8,0,0,1-8-8V2A1,1,0,0,1,2,1Z" fill="none"/>
+      </g>
+      <g id="Rectángulo_45227" data-name="Rectángulo 45227" transform="translate(553 4337)" fill="#ffca28" stroke="#727997" stroke-width="2">
+        <rect width="166" height="32" rx="9" stroke="none"/>
+        <rect x="1" y="1" width="164" height="30" rx="8" fill="none"/>
+      </g>
+      <g id="Rectángulo_45293" data-name="Rectángulo 45293" transform="translate(230 4337)" fill="#ffca28" stroke="#727997" stroke-width="2">
+        <rect width="166" height="32" rx="9" stroke="none"/>
+        <rect x="1" y="1" width="164" height="30" rx="8" fill="none"/>
+      </g>
+      <text id="_Interfaz_IEnumerable" data-name="&lt;&lt;Interfaz&gt;&gt;
+IEnumerable" transform="translate(262 4169)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-43.793" y="17">&lt;&lt;Interfaz&gt;&gt;</tspan><tspan x="-44.367" y="35">IEnumerable</tspan></text>
+      <text id="_Interfaz_IEnumerator" data-name="&lt;&lt;Interfaz&gt;&gt;
+IEnumerator" transform="translate(585 4169)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-43.793" y="17">&lt;&lt;Interfaz&gt;&gt;</tspan><tspan x="-43.504" y="35">IEnumerator</tspan></text>
+      <text id="getEnumerator_:_IEnumerator" data-name="getEnumerator(): IEnumerator" transform="translate(249 4231)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">getEnumerator(): </tspan><tspan x="0" y="35">IEnumerator</tspan></text>
+      <text id="moveNext_:_boolean_current_:_object_reset_" data-name="moveNext(): boolean
+current(): object
+reset()" transform="translate(561 4219)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">moveNext(): boolean</tspan><tspan x="0" y="35">current(): object</tspan><tspan x="0" y="53">reset()</tspan></text>
+      <text id="Enumerator" transform="translate(585 4344)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-41.328" y="17">Enumerator</tspan></text>
+      <text id="Enumerator-2" data-name="Enumerator" transform="translate(262 4344)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-41.328" y="17">Enumerator</tspan></text>
+      <g id="Grupo_104332" data-name="Grupo 104332" transform="translate(319.2 4340.594) rotate(-180)" opacity="0.6">
+        <g id="Grupo_99295" data-name="Grupo 99295" transform="translate(0 3.594)">
+          <path id="Polígono_36" data-name="Polígono 36" d="M6.6,0l6.6,11H0Z" transform="translate(13.2 48) rotate(180)" fill="#12263f"/>
+          <rect id="Rectángulo_42834" data-name="Rectángulo 42834" width="4.4" height="8.819" transform="translate(4.4 31.484)" fill="#12263f"/>
+          <rect id="Rectángulo_45228" data-name="Rectángulo 45228" width="4.4" height="8.819" transform="translate(4.4 20.465)" fill="#12263f"/>
+          <rect id="Rectángulo_45229" data-name="Rectángulo 45229" width="4.4" height="7.563" transform="translate(4.4 10.701)" fill="#12263f"/>
+          <rect id="Rectángulo_45230" data-name="Rectángulo 45230" width="4.4" height="7.237" transform="translate(4.4 1.583)" fill="#12263f"/>
+        </g>
+      </g>
+      <g id="Grupo_104457" data-name="Grupo 104457" transform="translate(642.2 4340.594) rotate(-180)" opacity="0.6">
+        <g id="Grupo_99295-2" data-name="Grupo 99295" transform="translate(0 3.594)">
+          <path id="Polígono_36-2" data-name="Polígono 36" d="M6.6,0l6.6,11H0Z" transform="translate(13.2 48) rotate(180)" fill="#12263f"/>
+          <rect id="Rectángulo_42834-2" data-name="Rectángulo 42834" width="4.4" height="8.819" transform="translate(4.4 31.484)" fill="#12263f"/>
+          <rect id="Rectángulo_45228-2" data-name="Rectángulo 45228" width="4.4" height="8.819" transform="translate(4.4 20.465)" fill="#12263f"/>
+          <rect id="Rectángulo_45229-2" data-name="Rectángulo 45229" width="4.4" height="7.563" transform="translate(4.4 10.701)" fill="#12263f"/>
+          <rect id="Rectángulo_45230-2" data-name="Rectángulo 45230" width="4.4" height="7.237" transform="translate(4.4 1.583)" fill="#12263f"/>
+        </g>
+      </g>
+      <g id="Grupo_104331" data-name="Grupo 104331" transform="translate(553 4346.4) rotate(90)" opacity="0.6">
+        <g id="Grupo_99295-3" data-name="Grupo 99295" transform="translate(0 0)">
+          <path id="Polígono_36-3" data-name="Polígono 36" d="M6.6,0l6.6,11H0Z" transform="translate(13.2 152.564) rotate(180)" fill="#12263f"/>
+          <rect id="Rectángulo_42834-3" data-name="Rectángulo 42834" width="4.4" height="142.786" transform="translate(4.4)" fill="#12263f"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

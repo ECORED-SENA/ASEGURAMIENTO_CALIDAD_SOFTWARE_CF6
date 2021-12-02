@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="494" height="259" viewBox="0 0 494 259">
+  <g id="Grupo_106850" data-name="Grupo 106850" transform="translate(-839 -10249)">
+    <g id="Rectángulo_43033" data-name="Rectángulo 43033" transform="translate(839 10249)" fill="#fff" stroke="#4dd0e1" stroke-width="2">
+      <path d="M0,0H494a0,0,0,0,1,0,0V246a13,13,0,0,1-13,13H13A13,13,0,0,1,0,246V0A0,0,0,0,1,0,0Z" stroke="none"/>
+      <path d="M2,1H492a1,1,0,0,1,1,1V246a12,12,0,0,1-12,12H13A12,12,0,0,1,1,246V2A1,1,0,0,1,2,1Z" fill="none"/>
+    </g>
+    <text id="Filtres" transform="translate(985 10471)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="17">Filtres</tspan></text>
+    <text id="Pipes" transform="translate(1115 10471)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="17">Pipes</tspan></text>
+    <path id="Trazado_213785" data-name="Trazado 213785" d="M-4043.791-1245.314h33.512v23.914H-4343.4v-37.2h15.958" transform="translate(5300.88 11668)" fill="none" stroke="#ffa726" stroke-width="4"/>
+    <rect id="Rectángulo_43026" data-name="Rectángulo 43026" width="50" height="40" transform="translate(888 10343)" fill="#039be5"/>
+    <rect id="Rectángulo_43032" data-name="Rectángulo 43032" width="24" height="20" transform="translate(952 10470)" fill="#039be5"/>
+    <rect id="Rectángulo_43031" data-name="Rectángulo 43031" width="50" height="40" transform="translate(1207 10394)" fill="#039be5"/>
+    <rect id="Rectángulo_43029" data-name="Rectángulo 43029" width="50" height="40" transform="translate(1207 10343)" fill="#039be5"/>
+    <g id="Grupo_99458" data-name="Grupo 99458" transform="translate(0 -34)">
+      <path id="Trazado_213784" data-name="Trazado 213784" d="M-4362-1309h19.7v-26h111.6v26h130.8" transform="translate(5300 11700)" fill="none" stroke="#ffa726" stroke-width="4"/>
+      <path id="Polígono_44" data-name="Polígono 44" d="M7,0l7,11H0Z" transform="translate(979.9 10358) rotate(90)" fill="#ffa726"/>
+      <path id="Polígono_45" data-name="Polígono 45" d="M7,0l7,11H0Z" transform="translate(1097.9 10384) rotate(90)" fill="#ffa726"/>
+      <path id="Polígono_46" data-name="Polígono 46" d="M7,0l7,11H0Z" transform="translate(1207.9 10384) rotate(90)" fill="#ffa726"/>
+    </g>
+    <path id="Trazado_213786" data-name="Trazado 213786" d="M-4362-1335h19.7v26h111.6v-26h130.8" transform="translate(5300 11706)" fill="none" stroke="#ffa726" stroke-width="4"/>
+    <path id="Polígono_48" data-name="Polígono 48" d="M7,0l7,11H0Z" transform="translate(1097.9 10364) rotate(90)" fill="#ffa726"/>
+    <path id="Polígono_49" data-name="Polígono 49" d="M7,0l7,11H0Z" transform="translate(1207.9 10364) rotate(90)" fill="#ffa726"/>
+    <path id="Polígono_51" data-name="Polígono 51" d="M7,0l7,11H0Z" transform="translate(1207.9 10400.5) rotate(90)" fill="#ffa726"/>
+    <path id="Polígono_52" data-name="Polígono 52" d="M7,0l7,11H0Z" transform="translate(1294 10400.5) rotate(90)" fill="#ffa726"/>
+    <path id="Polígono_53" data-name="Polígono 53" d="M7,0l7,11H0Z" transform="translate(1294 10357) rotate(90)" fill="#ffa726"/>
+    <path id="Polígono_55" data-name="Polígono 55" d="M7,0l7,11H0Z" transform="translate(1110 10474) rotate(90)" fill="#ffa726"/>
+    <path id="Polígono_54" data-name="Polígono 54" d="M7,0l7,11H0Z" transform="translate(888 10357) rotate(90)" fill="#ffa726"/>
+    <rect id="Rectángulo_43027" data-name="Rectángulo 43027" width="50" height="40" transform="translate(978 10311)" fill="#039be5"/>
+    <rect id="Rectángulo_43030" data-name="Rectángulo 43030" width="50" height="40" transform="translate(978 10380)" fill="#039be5"/>
+    <rect id="Rectángulo_43028" data-name="Rectángulo 43028" width="50" height="40" transform="translate(1095 10344)" fill="#039be5"/>
+    <path id="Polígono_47" data-name="Polígono 47" d="M7,0l7,11H0Z" transform="translate(979.9 10390) rotate(90)" fill="#ffa726"/>
+    <path id="Polígono_50" data-name="Polígono 50" d="M7,0l7,11H0Z" transform="translate(979.9 10404) rotate(90)" fill="#ffa726"/>
+    <line id="Línea_1333" data-name="Línea 1333" x2="172" transform="translate(1028.5 10407.5)" fill="none" stroke="#ffa726" stroke-width="4"/>
+    <line id="Línea_1334" data-name="Línea 1334" x2="29.6" transform="translate(1257 10407.5)" fill="none" stroke="#ffa726" stroke-width="4"/>
+    <line id="Línea_1335" data-name="Línea 1335" x2="29.6" transform="translate(1257 10364)" fill="none" stroke="#ffa726" stroke-width="4"/>
+    <line id="Línea_1337" data-name="Línea 1337" x2="20.1" transform="translate(1082.5 10481)" fill="none" stroke="#ffa726" stroke-width="4"/>
+    <line id="Línea_1336" data-name="Línea 1336" x2="29.6" transform="translate(851 10364)" fill="none" stroke="#ffa726" stroke-width="4"/>
+    <rect id="Rectángulo_43034" data-name="Rectángulo 43034" width="494" height="38" transform="translate(839 10249)" fill="#4dd0e1" opacity="0.55"/>
+    <text id="Pipes_and_filters_tuberías_y_filtros_" data-name="Pipes and filters ( tuberías y filtros)" transform="translate(947 10259)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="17">Pipes and filters ( tuberías y filtros)</tspan></text>
+  </g>
+</svg>

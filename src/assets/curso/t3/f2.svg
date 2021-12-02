@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="355" height="139" viewBox="0 0 355 139">
+  <g id="Grupo_106858" data-name="Grupo 106858" transform="translate(-943 -1045)">
+    <g id="Rectángulo_45113" data-name="Rectángulo 45113" transform="translate(943 1045)" fill="#fff" stroke="#727997" stroke-width="2">
+      <rect width="132" height="56" rx="9" stroke="none"/>
+      <rect x="1" y="1" width="130" height="54" rx="8" fill="none"/>
+    </g>
+    <g id="Rectángulo_45115" data-name="Rectángulo 45115" transform="translate(943 1128)" fill="#4dd0e1" stroke="#727997" stroke-width="2">
+      <rect width="132" height="56" rx="9" stroke="none"/>
+      <rect x="1" y="1" width="130" height="54" rx="8" fill="none"/>
+    </g>
+    <g id="Rectángulo_45116" data-name="Rectángulo 45116" transform="translate(1166 1128)" fill="#4dd0e1" stroke="#727997" stroke-width="2">
+      <rect width="132" height="56" rx="9" stroke="none"/>
+      <rect x="1" y="1" width="130" height="54" rx="8" fill="none"/>
+    </g>
+    <g id="Rectángulo_45114" data-name="Rectángulo 45114" transform="translate(1166 1045)" fill="#ffca28" stroke="#727997" stroke-width="2">
+      <rect width="132" height="56" rx="9" stroke="none"/>
+      <rect x="1" y="1" width="130" height="54" rx="8" fill="none"/>
+    </g>
+    <text id="Cliente" transform="translate(976 1065)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-24.594" y="17">Cliente</tspan></text>
+    <text id="Estrategia_1" data-name="Estrategia 1" transform="translate(965 1147)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-42.293" y="17">Estrategia 1</tspan></text>
+    <text id="Estrategia_N" data-name="Estrategia N" transform="translate(1188 1147)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-43.504" y="17">Estrategia N</tspan></text>
+    <text id="_Interfaz_Estrategia" data-name="&lt;&lt;Interfaz&gt;&gt;
+Estrategia" transform="translate(1187 1056)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-43.793" y="17">&lt;&lt;Interfaz&gt;&gt;</tspan><tspan x="-35.82" y="35">Estrategia</tspan></text>
+    <g id="Grupo_104179" data-name="Grupo 104179" transform="translate(1161.697 1067.899) rotate(90)">
+      <g id="Grupo_99295" data-name="Grupo 99295" transform="translate(0 0)">
+        <path id="Polígono_36" data-name="Polígono 36" d="M6.6,0l6.6,11H0Z" transform="translate(13.2 81.497) rotate(180)" fill="#ffca28"/>
+        <rect id="Rectángulo_42834" data-name="Rectángulo 42834" width="4.4" height="75.911" transform="translate(4.4 -4.192)" fill="#ffca28"/>
+      </g>
+    </g>
+    <g id="Grupo_104181" data-name="Grupo 104181" transform="translate(0 -7)">
+      <path id="Trazado_215690" data-name="Trazado 215690" d="M-1524-10633.5h37.267v-73.361" transform="translate(2599 11797)" fill="none" stroke="#1565c0" stroke-width="2"/>
+      <path id="Polígono_62" data-name="Polígono 62" d="M6.6,0l6.6,11H0Z" transform="translate(1106 1088.1)" fill="#1565c0"/>
+    </g>
+    <g id="Grupo_104180" data-name="Grupo 104180" transform="translate(0 -7)">
+      <path id="Trazado_215691" data-name="Trazado 215691" d="M-1491.077-10633.5H-1524v-73.361" transform="translate(2658.133 11797)" fill="none" stroke="#1565c0" stroke-width="2"/>
+      <path id="Polígono_63" data-name="Polígono 63" d="M6.6,0l6.6,11H0Z" transform="translate(1127.533 1088.1)" fill="#1565c0"/>
+    </g>
+  </g>
+</svg>

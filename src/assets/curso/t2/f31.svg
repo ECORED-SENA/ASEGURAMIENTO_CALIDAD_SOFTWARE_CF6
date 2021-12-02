@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="575" height="435" viewBox="0 0 575 435">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Rectángulo_45073" data-name="Rectángulo 45073" d="M20,0H430a20,20,0,0,1,20,20V215a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V20A20,20,0,0,1,20,0Z" transform="translate(837 13377)" fill="#039be5"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_106856" data-name="Grupo 106856" transform="translate(-796 -13343)">
+    <path id="Rectángulo_45071" data-name="Rectángulo 45071" d="M20,0H482a20,20,0,0,1,20,20V249a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V20A20,20,0,0,1,20,0Z" transform="translate(811 13343)" fill="#c1f6fd"/>
+    <path id="Rectángulo_45070" data-name="Rectángulo 45070" d="M20,0H430a20,20,0,0,1,20,20V215a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V20A20,20,0,0,1,20,0Z" transform="translate(837 13377)" fill="#ffedd2"/>
+    <text id="Red_inalámbrica" data-name="Red inalámbrica" transform="translate(1095 13351)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-114.688" y="17">Red inalámbrica</tspan></text>
+    <text id="Bases_de_datos" data-name="Bases de datos" transform="translate(1250 13682)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">Bases de datos</tspan></text>
+    <text id="Plataformas_de_desarrollo_de_las_aplicaciones" data-name="Plataformas de desarrollo de las aplicaciones" transform="translate(796 13733)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-184.242" y="17">Plataformas de desarrollo </tspan><tspan x="-135.719" y="41">de las aplicaciones</tspan></text>
+    <text id="Interfaz_de_administración" data-name="Interfaz de administración" transform="translate(796 13651)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-76.063" y="17">Interfaz de </tspan><tspan x="-105.836" y="41">administración</tspan></text>
+    <text id="Manejo_de_la_App" data-name="Manejo de la App" transform="translate(819 13385)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-90.93" y="17">Manejo de la </tspan><tspan x="-28.391" y="37">App</tspan></text>
+    <g id="Enmascarar_grupo_79934" data-name="Enmascarar grupo 79934" clip-path="url(#clip-path)">
+      <circle id="Elipse_6562" data-name="Elipse 6562" cx="187.5" cy="187.5" r="187.5" transform="translate(875 13404)" fill="#039be5"/>
+    </g>
+    <text id="Capa_interfaz_de_usuario" data-name="Capa interfaz de usuario" transform="translate(974 13428)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-86.664" y="17">Capa interfaz de usuario</tspan></text>
+    <text id="Portal_cautivo" data-name="Portal cautivo" transform="translate(1150 13395)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-98.461" y="17">Portal cautivo</tspan></text>
+    <circle id="Elipse_6563" data-name="Elipse 6563" cx="141.5" cy="141.5" r="141.5" transform="translate(921 13450)" fill="#4dd0e1"/>
+    <circle id="Elipse_6564" data-name="Elipse 6564" cx="99.5" cy="99.5" r="99.5" transform="translate(963 13492)" fill="#26a69a"/>
+    <circle id="Elipse_6565" data-name="Elipse 6565" cx="58.5" cy="58.5" r="58.5" transform="translate(1004 13533)" fill="#ffca28"/>
+    <text id="Capa_central" data-name="Capa central" transform="translate(1013 13582)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-44.676" y="17">Capa central</tspan></text>
+    <text id="Capa_aplicación" data-name="Capa aplicación" transform="translate(1004 13466)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-56.746" y="17">Capa aplicación</tspan></text>
+    <text id="Capa_utilidad" data-name="Capa utilidad" transform="translate(1015 13506)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-46.602" y="17">Capa utilidad</tspan></text>
+    <rect id="Rectángulo_45072" data-name="Rectángulo 45072" width="14" height="14" rx="3" transform="translate(1054 13625)" fill="#fff"/>
+    <rect id="Rectángulo_45076" data-name="Rectángulo 45076" width="14" height="14" rx="3" transform="translate(1014 13651)" fill="#fff"/>
+    <rect id="Rectángulo_45081" data-name="Rectángulo 45081" width="14" height="14" rx="3" transform="translate(953 13650)" fill="#fff"/>
+    <rect id="Rectángulo_45082" data-name="Rectángulo 45082" width="14" height="14" rx="3" transform="translate(940 13621)" fill="#fff"/>
+    <rect id="Rectángulo_45083" data-name="Rectángulo 45083" width="14" height="14" rx="3" transform="translate(935 13587)" fill="#fff"/>
+    <rect id="Rectángulo_45084" data-name="Rectángulo 45084" width="14" height="14" rx="3" transform="translate(940 13552)" fill="#fff"/>
+    <rect id="Rectángulo_45085" data-name="Rectángulo 45085" width="14" height="14" rx="3" transform="translate(953 13523)" fill="#fff"/>
+    <rect id="Rectángulo_45086" data-name="Rectángulo 45086" width="14" height="14" rx="3" transform="translate(892 13548)" fill="#fff"/>
+    <rect id="Rectángulo_45087" data-name="Rectángulo 45087" width="14" height="14" rx="3" transform="translate(901 13519)" fill="#fff"/>
+    <rect id="Rectángulo_45088" data-name="Rectángulo 45088" width="14" height="14" rx="3" transform="translate(915 13492)" fill="#fff"/>
+    <rect id="Rectángulo_45089" data-name="Rectángulo 45089" width="14" height="14" rx="3" transform="translate(932 13471)" fill="#fff"/>
+    <rect id="Rectángulo_45090" data-name="Rectángulo 45090" width="14" height="14" rx="3" transform="translate(953 13452)" fill="#fff"/>
+    <rect id="Rectángulo_45078" data-name="Rectángulo 45078" width="14" height="14" rx="3" transform="translate(982 13614)" fill="#fff"/>
+    <rect id="Rectángulo_45077" data-name="Rectángulo 45077" width="14" height="14" rx="3" transform="translate(995 13635)" fill="#fff"/>
+    <rect id="Rectángulo_45079" data-name="Rectángulo 45079" width="14" height="14" rx="3" transform="translate(976 13588)" fill="#fff"/>
+    <rect id="Rectángulo_45075" data-name="Rectángulo 45075" width="14" height="14" rx="3" transform="translate(1079 13616)" fill="#fff"/>
+    <rect id="Rectángulo_45074" data-name="Rectángulo 45074" width="14" height="14" rx="3" transform="translate(1031 13616)" fill="#fff"/>
+    <path id="Trazado_215446" data-name="Trazado 215446" d="M-4227.8,1940l168,51.6-148-65.6" transform="translate(5300 11700)" fill="none" stroke="#12263f" stroke-width="2" opacity="0.6"/>
+    <path id="Trazado_215447" data-name="Trazado 215447" d="M-4306,1949l-20.2,78,39.2-60.8" transform="translate(5300 11700)" fill="none" stroke="#12263f" stroke-width="2" opacity="0.6"/>
+    <path id="Trazado_215448" data-name="Trazado 215448" d="M-4351,1957l-33.8,8.2" transform="translate(5300 11700)" fill="none" stroke="#12263f" stroke-width="2" opacity="0.6"/>
+    <path id="Trazado_215449" data-name="Trazado 215449" d="M-4351,1957l-21-27.654" transform="translate(5304 11495)" fill="none" stroke="#12263f" stroke-width="2" opacity="0.6"/>
+    <path id="Trazado_215450" data-name="Trazado 215450" d="M-4351,1957l-5.179-42.77" transform="translate(5283.003 11514)" fill="none" stroke="#12263f" stroke-width="2" opacity="0.6"/>
+    <path id="Trazado_215451" data-name="Trazado 215451" d="M-4351,1957l4.055-63.77" transform="translate(5266 11535)" fill="none" stroke="#12263f" stroke-width="2" opacity="0.6"/>
+  </g>
+</svg>

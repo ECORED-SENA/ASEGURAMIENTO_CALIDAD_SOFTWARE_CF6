@@ -1,0 +1,105 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1147.8" height="537.6" viewBox="0 0 1147.8 537.6">
+  <g id="Grupo_106892" data-name="Grupo 106892" transform="translate(-226.1 -3841)">
+    <rect id="Rectángulo_45540" data-name="Rectángulo 45540" width="365.504" height="38.093" rx="3" transform="translate(469.879 3841)" fill="#1565c0"/>
+    <rect id="Rectángulo_45550" data-name="Rectángulo 45550" width="150.504" height="49.093" rx="8" transform="translate(566 4136)" fill="#039be5" opacity="0.6"/>
+    <rect id="Rectángulo_45557" data-name="Rectángulo 45557" width="150.504" height="49.093" rx="8" transform="translate(308.1 4136.5)" fill="#039be5" opacity="0.6"/>
+    <rect id="Rectángulo_45545" data-name="Rectángulo 45545" width="95.008" height="34.093" rx="8" transform="translate(1173.388 4306)" fill="#ffca28" opacity="0.5"/>
+    <rect id="Rectángulo_45551" data-name="Rectángulo 45551" width="95.008" height="34.093" rx="8" transform="translate(582.383 4306.768)" fill="#ffca28" opacity="0.5"/>
+    <rect id="Rectángulo_45555" data-name="Rectángulo 45555" width="223.008" height="50.639" rx="8" transform="translate(300.44 4255.174)" fill="#ffca28" opacity="0.5"/>
+    <rect id="Rectángulo_45556" data-name="Rectángulo 45556" width="223.008" height="50.639" rx="8" transform="translate(300.936 4327.961)" fill="#ffca28" opacity="0.5"/>
+    <rect id="Rectángulo_45552" data-name="Rectángulo 45552" width="95.008" height="34.093" rx="8" transform="translate(685.383 4306.768)" fill="#ffca28" opacity="0.5"/>
+    <rect id="Rectángulo_45553" data-name="Rectángulo 45553" width="95.008" height="34.093" rx="8" transform="translate(787.383 4306.768)" fill="#ffca28" opacity="0.5"/>
+    <rect id="Rectángulo_45547" data-name="Rectángulo 45547" width="95.008" height="47.155" rx="8" transform="translate(909.626 4304)" fill="#ffca28" opacity="0.5"/>
+    <rect id="Rectángulo_45546" data-name="Rectángulo 45546" width="95.008" height="34.093" rx="8" transform="translate(1278.892 4306)" fill="#ffca28" opacity="0.5"/>
+    <rect id="Rectángulo_45548" data-name="Rectángulo 45548" width="95.008" height="47.155" rx="8" transform="translate(1024.126 4303.629)" fill="#ffca28" opacity="0.5"/>
+    <text id="Patrones_de_diseño_de_software" data-name="Patrones de diseño de software" transform="translate(538.879 3866)" fill="#fff" font-size="18" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="0">Patrones de diseño de software</tspan></text>
+    <g id="Grupo_106818" data-name="Grupo 106818" transform="translate(-60.109 -50)">
+      <rect id="Rectángulo_45541" data-name="Rectángulo 45541" width="200.504" height="49.093" rx="8" transform="translate(694 4047)" fill="#4dd0e1"/>
+      <text id="Patrones_comportamentales" data-name="Patrones
+comportamentales" transform="translate(794 4068)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-31.938" y="0">Patrones</tspan><tspan x="-67.613" y="18">comportamentales</tspan></text>
+    </g>
+    <g id="Grupo_106817" data-name="Grupo 106817" transform="translate(103.1 -50)">
+      <rect id="Rectángulo_45554" data-name="Rectángulo 45554" width="200.504" height="49.093" rx="8" transform="translate(130 4047)" fill="#4dd0e1"/>
+      <text id="Especificaciones_técnicas" data-name="Especificaciones
+técnicas" transform="translate(230 4068)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-59.965" y="0">Especificaciones</tspan><tspan x="-30.059" y="18">técnicas</tspan></text>
+    </g>
+    <g id="Grupo_106819" data-name="Grupo 106819" transform="translate(-60.109 -50)">
+      <rect id="Rectángulo_45542" data-name="Rectángulo 45542" width="200.504" height="49.093" rx="8" transform="translate(944 4047)" fill="#4dd0e1"/>
+      <text id="Patrones_creacionales" data-name="Patrones
+creacionales" transform="translate(1044 4068)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-31.938" y="0">Patrones</tspan><tspan x="-45.246" y="18">creacionales</tspan></text>
+    </g>
+    <g id="Grupo_106820" data-name="Grupo 106820" transform="translate(-60.109 -50)">
+      <rect id="Rectángulo_45543" data-name="Rectángulo 45543" width="200.504" height="49.093" rx="8" transform="translate(1198 4047)" fill="#4dd0e1"/>
+      <text id="Patrones_estructurales" data-name="Patrones
+estructurales" transform="translate(1298 4068)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-31.938" y="0">Patrones</tspan><tspan x="-46.512" y="18">estructurales</tspan></text>
+    </g>
+    <g id="Grupo_106822" data-name="Grupo 106822" transform="translate(-60.109 -49.907)">
+      <rect id="Rectángulo_45544" data-name="Rectángulo 45544" width="150.504" height="49.093" rx="8" transform="translate(1137.496 4185.907)" fill="#039be5" opacity="0.6"/>
+      <text id="Componentes_de_los_objetos" data-name="Componentes de 
+los objetos" transform="translate(1212.496 4206.907)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-62.586" y="0">Componentes de </tspan><tspan x="-39.031" y="18">los objetos</tspan></text>
+    </g>
+    <g id="Grupo_106821" data-name="Grupo 106821" transform="translate(-14.856 -104)">
+      <rect id="Rectángulo_45549" data-name="Rectángulo 45549" width="150.504" height="49.093" rx="8" transform="translate(848.496 4240)" fill="#039be5" opacity="0.6"/>
+      <text id="Interacción_de_objetos" data-name="Interacción
+de objetos" transform="translate(923.496 4261)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-39.637" y="0">Interacción</tspan><tspan x="-37.152" y="18">de objetos</tspan></text>
+    </g>
+    <text id="Interacción_entre_objetos" data-name="Interacción
+entre objetos" transform="translate(641 4157)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-39.637" y="0">Interacción</tspan><tspan x="-46.613" y="18">entre objetos</tspan></text>
+    <text id="Problemas_reales" data-name="Problemas reales" transform="translate(384.1 4166.5)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-61.977" y="0">Problemas reales</tspan></text>
+    <text id="Fachada" transform="translate(1220.64 4327)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-30.449" y="0">Fachada</tspan></text>
+    <text id="Estrategia" transform="translate(630.384 4329.768)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-35.82" y="0">Estrategia</tspan></text>
+    <text id="Principios_de_programación_orientada_a_objetos" data-name="Principios de programación
+orientada a objetos" transform="translate(314.439 4277.283)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Principios de programación</tspan><tspan x="0" y="18">orientada a objetos</tspan></text>
+    <text id="Experiencia_de_la_industria_del_software" data-name="Experiencia de la industria
+del software" transform="translate(319.937 4350.961)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Experiencia de la industria</tspan><tspan x="0" y="18">del software</tspan></text>
+    <text id="Comando" transform="translate(733.384 4329.768)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-34.621" y="0">Comando</tspan></text>
+    <text id="Interator" transform="translate(835.384 4329.768)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-30.148" y="0">Interator</tspan></text>
+    <text id="Singleton" transform="translate(956.878 4333)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-33.281" y="0">Singleton</tspan></text>
+    <text id="Delegate" transform="translate(1326.144 4327)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-31.355" y="0">Delegate</tspan></text>
+    <text id="Fábrica_abstracta" data-name="Fábrica
+abstracta" transform="translate(1071.378 4324.629)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-26.449" y="0">Fábrica</tspan><tspan x="-33.633" y="18">abstracta</tspan></text>
+    <text id="Se_categorizan_en" data-name="Se categorizan en" transform="translate(915.891 3929)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Se categorizan en</tspan></text>
+    <text id="Se_centran_en" data-name="Se centran
+en" transform="translate(1150.135 4102)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-37.734" y="0">Se centran</tspan><tspan x="-8.652" y="18">en</tspan></text>
+    <text id="Se_centran_en-2" data-name="Se centran
+en" transform="translate(892.891 4102)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-37.734" y="0">Se centran</tspan><tspan x="-8.652" y="18">en</tspan></text>
+    <text id="Se_centran_en-3" data-name="Se centran
+en" transform="translate(641.168 4102)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-37.734" y="0">Se centran</tspan><tspan x="-8.652" y="18">en</tspan></text>
+    <text id="Para_resolver" data-name="Para resolver" transform="translate(383.84 4111)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-46.633" y="0">Para resolver</tspan></text>
+    <text id="Basados_en" data-name="Basados en" transform="translate(268.1 4111)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-41.641" y="0">Basados en</tspan></text>
+    <text id="Algunos_ejemplos" data-name="Algunos 
+ejemplos" transform="translate(1268.396 4236)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-31.141" y="0">Algunos </tspan><tspan x="-32.516" y="18">ejemplos</tspan></text>
+    <text id="Algunos_ejemplos-2" data-name="Algunos 
+ejemplos" transform="translate(1019.887 4236)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-31.141" y="0">Algunos </tspan><tspan x="-32.516" y="18">ejemplos</tspan></text>
+    <text id="Algunos_ejemplos-3" data-name="Algunos 
+ejemplos" transform="translate(768.164 4236)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-31.141" y="0">Algunos </tspan><tspan x="-32.516" y="18">ejemplos</tspan></text>
+    <text id="Son" transform="translate(308.891 3929)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Son</tspan></text>
+    <path id="Trazado_218421" data-name="Trazado 218421" d="M6625.175-8450H6609v661.752h16.175" transform="translate(-7465.857 -2710.5) rotate(90)" fill="none" stroke="#12263f" stroke-width="2"/>
+    <path id="Trazado_218422" data-name="Trazado 218422" d="M6625.175-8450H6609v507.383h16.175" transform="translate(-7209.233 -2628.175) rotate(90)" fill="none" stroke="#12263f" stroke-width="2"/>
+    <path id="Trazado_218423" data-name="Trazado 218423" d="M6758.475-8450H6609v118.262h16.175" transform="translate(-7181.603 -2537.175) rotate(90)" fill="none" stroke="#12263f" stroke-width="2"/>
+    <path id="Trazado_218425" data-name="Trazado 218425" d="M6758.475-8450H6609v118.262h16.175" transform="translate(-7438.603 -2537.175) rotate(90)" fill="none" stroke="#12263f" stroke-width="2"/>
+    <path id="Trazado_218427" data-name="Trazado 218427" d="M6758.475-8450H6609v118.262h16.175" transform="translate(-7690.326 -2537.175) rotate(90)" fill="none" stroke="#12263f" stroke-width="2"/>
+    <path id="Trazado_218424" data-name="Trazado 218424" d="M6625.175-8450H6609v105.975h16.175" transform="translate(-7123.131 -2321.546) rotate(90)" fill="none" stroke="#12263f" stroke-width="2"/>
+    <path id="Trazado_218426" data-name="Trazado 218426" d="M6625.175-8450H6609v114.5h16.175" transform="translate(-7378.369 -2321.546) rotate(90)" fill="none" stroke="#12263f" stroke-width="2"/>
+    <path id="Trazado_218429" data-name="Trazado 218429" d="M6625.175-8450H6609v114.5h16.175" transform="translate(-8066.16 -2533.453) rotate(90)" fill="none" stroke="#12263f" stroke-width="2"/>
+    <path id="Trazado_218430" data-name="Trazado 218430" d="M6625.175-8450H6609v80.454h16.175" transform="translate(-6324.735 12724.008)" fill="none" stroke="#12263f" stroke-width="2"/>
+    <path id="Trazado_218428" data-name="Trazado 218428" d="M6625.175-8450H6609v212.893h16.175" transform="translate(-7614.616 -2321.546) rotate(90)" fill="none" stroke="#12263f" stroke-width="2"/>
+    <line id="Línea_1689" data-name="Línea 1689" y1="19.407" transform="translate(653.267 3879.093)" fill="none" stroke="#12263f" stroke-width="2"/>
+    <line id="Línea_1690" data-name="Línea 1690" y1="64.5" transform="translate(984.143 3933)" fill="none" stroke="#12263f" stroke-width="2"/>
+    <line id="Línea_1691" data-name="Línea 1691" y1="25.407" transform="translate(1240.767 4046.093)" fill="none" stroke="#12263f" stroke-width="2"/>
+    <line id="Línea_1694" data-name="Línea 1694" y1="25.407" transform="translate(983.767 4046.093)" fill="none" stroke="#12263f" stroke-width="2"/>
+    <line id="Línea_1697" data-name="Línea 1697" y1="25.407" transform="translate(732.044 4046.093)" fill="none" stroke="#12263f" stroke-width="2"/>
+    <line id="Línea_1692" data-name="Línea 1692" y1="13.204" transform="translate(1150.135 4123.296)" fill="none" stroke="#12263f" stroke-width="2"/>
+    <line id="Línea_1695" data-name="Línea 1695" y1="29.5" transform="translate(1268.396 4258)" fill="none" stroke="#12263f" stroke-width="2"/>
+    <line id="Línea_1696" data-name="Línea 1696" y1="29.5" transform="translate(1010.396 4258)" fill="none" stroke="#12263f" stroke-width="2"/>
+    <line id="Línea_1701" data-name="Línea 1701" y1="29.5" transform="translate(322.604 4046.093)" fill="none" stroke="#12263f" stroke-width="2"/>
+    <line id="Línea_1705" data-name="Línea 1705" y1="63.5" transform="translate(322.604 3933.5)" fill="none" stroke="#12263f" stroke-width="2"/>
+    <line id="Línea_1702" data-name="Línea 1702" y1="201" transform="translate(269.104 4117.5)" fill="none" stroke="#12263f" stroke-width="2"/>
+    <line id="Línea_1703" data-name="Línea 1703" x1="15.005" transform="translate(268.1 4317.397)" fill="none" stroke="#12263f" stroke-width="2"/>
+    <line id="Línea_1699" data-name="Línea 1699" y1="29.5" transform="translate(758.673 4258)" fill="none" stroke="#12263f" stroke-width="2"/>
+    <line id="Línea_1693" data-name="Línea 1693" y1="13.204" transform="translate(893.135 4123.296)" fill="none" stroke="#12263f" stroke-width="2"/>
+    <line id="Línea_1698" data-name="Línea 1698" y1="13.204" transform="translate(641.412 4123.296)" fill="none" stroke="#12263f" stroke-width="2"/>
+    <line id="Línea_1704" data-name="Línea 1704" y1="19" transform="translate(383.588 4117.5)" fill="none" stroke="#12263f" stroke-width="2"/>
+    <line id="Línea_1700" data-name="Línea 1700" y1="17.046" transform="translate(733.384 4287.454)" fill="none" stroke="#12263f" stroke-width="2"/>
+  </g>
+</svg>

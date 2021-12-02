@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="281" height="79" viewBox="0 0 281 79">
+  <g id="Grupo_106880" data-name="Grupo 106880" transform="translate(-802 -1344)">
+    <g id="Rectángulo_45432" data-name="Rectángulo 45432" transform="translate(802 1344)" fill="#a1e0ff" stroke="#12263f" stroke-linejoin="round" stroke-width="2">
+      <rect width="281" height="79" stroke="none"/>
+      <rect x="1" y="1" width="279" height="77" fill="none"/>
+    </g>
+    <text id="Artifact" transform="translate(912 1389)" fill="#12263f" font-size="18" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="0">Artifact</tspan></text>
+    <g id="Trazado_217612" data-name="Trazado 217612" transform="translate(1027 1355.855)" fill="#fff">
+      <path d="M 38.99816513061523 53.28906631469727 L 1 53.28906631469727 L 1 0.9953285455703735 L 28.80364036560059 0.970062792301178 L 34.07614517211914 5.48411226272583 L 38.91830825805664 9.724745750427246 L 38.99816513061523 53.28906631469727 Z" stroke="none"/>
+      <path d="M 28.43444061279297 1.97039794921875 L 2 1.994419097900391 L 2 52.28906631469727 L 37.9963264465332 52.28906631469727 L 37.91913986206055 10.17898178100586 L 33.42094039916992 6.239585876464844 L 28.43444061279297 1.97039794921875 M 29.17284965515137 -0.0302734375 L 34.73046875 4.727874755859375 L 39.91748046875 9.270515441894531 L 40 54.28906631469727 L 0 54.28906631469727 L 0 -0.003765106201171875 L 29.17284965515137 -0.0302734375 Z" stroke="none" fill="#12263f"/>
+    </g>
+    <path id="Trazado_217611" data-name="Trazado 217611" d="M6564.4-10580.43v9h9Z" transform="translate(-5508 11937.855)" fill="none" stroke="#12263f" stroke-linejoin="round" stroke-width="2"/>
+  </g>
+</svg>

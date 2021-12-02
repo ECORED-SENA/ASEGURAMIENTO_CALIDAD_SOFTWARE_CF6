@@ -1,0 +1,242 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="734.386" height="608" viewBox="0 0 734.386 608">
+  <g id="Grupo_106884" data-name="Grupo 106884" transform="translate(-588.647 -3309)">
+    <g id="Rectángulo_45445" data-name="Rectángulo 45445" transform="translate(1143 3309)" fill="#ddfbff" stroke="#12263f" stroke-width="1">
+      <rect width="172" height="31" stroke="none"/>
+      <rect x="0.5" y="0.5" width="171" height="30" fill="none"/>
+    </g>
+    <g id="Rectángulo_45453" data-name="Rectángulo 45453" transform="translate(1143 3601)" fill="#ddfbff" stroke="#12263f" stroke-width="1">
+      <rect width="172" height="31" stroke="none"/>
+      <rect x="0.5" y="0.5" width="171" height="30" fill="none"/>
+    </g>
+    <g id="Rectángulo_45455" data-name="Rectángulo 45455" transform="translate(1143 3686)" fill="#ddfbff" stroke="#12263f" stroke-width="1">
+      <rect width="172" height="31" stroke="none"/>
+      <rect x="0.5" y="0.5" width="171" height="30" fill="none"/>
+    </g>
+    <g id="Rectángulo_45458" data-name="Rectángulo 45458" transform="translate(1143 3771)" fill="#ddfbff" stroke="#12263f" stroke-width="1">
+      <rect width="172" height="31" stroke="none"/>
+      <rect x="0.5" y="0.5" width="171" height="30" fill="none"/>
+    </g>
+    <g id="Rectángulo_45451" data-name="Rectángulo 45451" transform="translate(1143 3400)" fill="#ddfbff" stroke="#12263f" stroke-width="1">
+      <rect width="172" height="31" stroke="none"/>
+      <rect x="0.5" y="0.5" width="171" height="30" fill="none"/>
+    </g>
+    <g id="Rectángulo_45459" data-name="Rectángulo 45459" transform="translate(1143 3856)" fill="#ddfbff" stroke="#12263f" stroke-width="1">
+      <rect width="172" height="31" stroke="none"/>
+      <rect x="0.5" y="0.5" width="171" height="30" fill="none"/>
+    </g>
+    <g id="Rectángulo_45449" data-name="Rectángulo 45449" transform="translate(1143 3339)" fill="#ddfbff" stroke="#12263f" stroke-width="1">
+      <rect width="172" height="47" stroke="none"/>
+      <rect x="0.5" y="0.5" width="171" height="46" fill="none"/>
+    </g>
+    <g id="Rectángulo_45454" data-name="Rectángulo 45454" transform="translate(1143 3631)" fill="#ddfbff" stroke="#12263f" stroke-width="1">
+      <rect width="172" height="47" stroke="none"/>
+      <rect x="0.5" y="0.5" width="171" height="46" fill="none"/>
+    </g>
+    <g id="Rectángulo_45456" data-name="Rectángulo 45456" transform="translate(1143 3716)" fill="#ddfbff" stroke="#12263f" stroke-width="1">
+      <rect width="172" height="47" stroke="none"/>
+      <rect x="0.5" y="0.5" width="171" height="46" fill="none"/>
+    </g>
+    <g id="Rectángulo_45457" data-name="Rectángulo 45457" transform="translate(1143 3801)" fill="#ddfbff" stroke="#12263f" stroke-width="1">
+      <rect width="172" height="47" stroke="none"/>
+      <rect x="0.5" y="0.5" width="171" height="46" fill="none"/>
+    </g>
+    <g id="Rectángulo_45452" data-name="Rectángulo 45452" transform="translate(1143 3430)" fill="#ddfbff" stroke="#12263f" stroke-width="1">
+      <rect width="172" height="31" stroke="none"/>
+      <rect x="0.5" y="0.5" width="171" height="30" fill="none"/>
+    </g>
+    <g id="Rectángulo_45460" data-name="Rectángulo 45460" transform="translate(1143 3886)" fill="#ddfbff" stroke="#12263f" stroke-width="1">
+      <rect width="172" height="31" stroke="none"/>
+      <rect x="0.5" y="0.5" width="171" height="30" fill="none"/>
+    </g>
+    <text id="checkoutSystem" transform="translate(1156 3317)" fill="#12263f" font-size="14" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="15">checkoutSystem</tspan></text>
+    <text id="manegeGenres" transform="translate(1156 3609)" fill="#12263f" font-size="14" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="15">manegeGenres</tspan></text>
+    <text id="manegeBooks" transform="translate(1156 3694)" fill="#12263f" font-size="14" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="15">manegeBooks</tspan></text>
+    <text id="manegeUsers" transform="translate(1156 3779)" fill="#12263f" font-size="14" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="15">manegeUsers</tspan></text>
+    <text id="searchBooks" transform="translate(1156 3408)" fill="#12263f" font-size="14" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-40.913" y="15">searchBooks</tspan></text>
+    <text id="manageFees" transform="translate(1156 3864)" fill="#12263f" font-size="14" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-40.267" y="15">manageFees</tspan></text>
+    <text id="checkoutBook_void_returnBook_void" data-name="checkoutBook() void
+returnBook() void" transform="translate(1156 3347)" fill="#12263f" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="15">checkoutBook() void</tspan><tspan x="0" y="33">returnBook() void</tspan></text>
+    <text id="addGenre_void_removeGenre_void" data-name="addGenre() void
+removeGenre() void" transform="translate(1156 3637)" fill="#12263f" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="15">addGenre() void</tspan><tspan x="0" y="33">removeGenre() void</tspan></text>
+    <text id="addBook_void_removeBook_void" data-name="addBook() void
+removeBook() void" transform="translate(1156 3722)" fill="#12263f" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="15">addBook() void</tspan><tspan x="0" y="33">removeBook() void</tspan></text>
+    <text id="ViewUsers_String_removeUser_void" data-name="ViewUsers() String
+removeUser() void" transform="translate(1156 3807)" fill="#12263f" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="15">ViewUsers() String</tspan><tspan x="0" y="33">removeUser() void</tspan></text>
+    <g id="Grupo_106409" data-name="Grupo 106409" transform="translate(543)">
+      <g id="Rectángulo_45446" data-name="Rectángulo 45446" transform="translate(740 3314)" fill="#4dd0e1" stroke="#12263f" stroke-width="1">
+        <rect width="19" height="22" stroke="none"/>
+        <rect x="0.5" y="0.5" width="18" height="21" fill="none"/>
+      </g>
+      <g id="Grupo_106408" data-name="Grupo 106408" transform="translate(0 -1)">
+        <g id="Rectángulo_45447" data-name="Rectángulo 45447" transform="translate(737 3319)" fill="#4dd0e1" stroke="#12263f" stroke-width="1">
+          <rect width="9" height="6" stroke="none"/>
+          <rect x="0.5" y="0.5" width="8" height="5" fill="none"/>
+        </g>
+        <g id="Rectángulo_45448" data-name="Rectángulo 45448" transform="translate(737 3327)" fill="#4dd0e1" stroke="#12263f" stroke-width="1">
+          <rect width="9" height="6" stroke="none"/>
+          <rect x="0.5" y="0.5" width="8" height="5" fill="none"/>
+        </g>
+      </g>
+    </g>
+    <g id="Grupo_106412" data-name="Grupo 106412" transform="translate(543 292)">
+      <g id="Rectángulo_45446-2" data-name="Rectángulo 45446" transform="translate(740 3314)" fill="#4dd0e1" stroke="#12263f" stroke-width="1">
+        <rect width="19" height="22" stroke="none"/>
+        <rect x="0.5" y="0.5" width="18" height="21" fill="none"/>
+      </g>
+      <g id="Grupo_106408-2" data-name="Grupo 106408" transform="translate(0 -1)">
+        <g id="Rectángulo_45447-2" data-name="Rectángulo 45447" transform="translate(737 3319)" fill="#4dd0e1" stroke="#12263f" stroke-width="1">
+          <rect width="9" height="6" stroke="none"/>
+          <rect x="0.5" y="0.5" width="8" height="5" fill="none"/>
+        </g>
+        <g id="Rectángulo_45448-2" data-name="Rectángulo 45448" transform="translate(737 3327)" fill="#4dd0e1" stroke="#12263f" stroke-width="1">
+          <rect width="9" height="6" stroke="none"/>
+          <rect x="0.5" y="0.5" width="8" height="5" fill="none"/>
+        </g>
+      </g>
+    </g>
+    <g id="Grupo_106413" data-name="Grupo 106413" transform="translate(543 377)">
+      <g id="Rectángulo_45446-3" data-name="Rectángulo 45446" transform="translate(740 3314)" fill="#4dd0e1" stroke="#12263f" stroke-width="1">
+        <rect width="19" height="22" stroke="none"/>
+        <rect x="0.5" y="0.5" width="18" height="21" fill="none"/>
+      </g>
+      <g id="Grupo_106408-3" data-name="Grupo 106408" transform="translate(0 -1)">
+        <g id="Rectángulo_45447-3" data-name="Rectángulo 45447" transform="translate(737 3319)" fill="#4dd0e1" stroke="#12263f" stroke-width="1">
+          <rect width="9" height="6" stroke="none"/>
+          <rect x="0.5" y="0.5" width="8" height="5" fill="none"/>
+        </g>
+        <g id="Rectángulo_45448-3" data-name="Rectángulo 45448" transform="translate(737 3327)" fill="#4dd0e1" stroke="#12263f" stroke-width="1">
+          <rect width="9" height="6" stroke="none"/>
+          <rect x="0.5" y="0.5" width="8" height="5" fill="none"/>
+        </g>
+      </g>
+    </g>
+    <g id="Grupo_106414" data-name="Grupo 106414" transform="translate(543 461)">
+      <g id="Rectángulo_45446-4" data-name="Rectángulo 45446" transform="translate(740 3314)" fill="#4dd0e1" stroke="#12263f" stroke-width="1">
+        <rect width="19" height="22" stroke="none"/>
+        <rect x="0.5" y="0.5" width="18" height="21" fill="none"/>
+      </g>
+      <g id="Grupo_106408-4" data-name="Grupo 106408" transform="translate(0 -1)">
+        <g id="Rectángulo_45447-4" data-name="Rectángulo 45447" transform="translate(737 3319)" fill="#4dd0e1" stroke="#12263f" stroke-width="1">
+          <rect width="9" height="6" stroke="none"/>
+          <rect x="0.5" y="0.5" width="8" height="5" fill="none"/>
+        </g>
+        <g id="Rectángulo_45448-4" data-name="Rectángulo 45448" transform="translate(737 3327)" fill="#4dd0e1" stroke="#12263f" stroke-width="1">
+          <rect width="9" height="6" stroke="none"/>
+          <rect x="0.5" y="0.5" width="8" height="5" fill="none"/>
+        </g>
+      </g>
+    </g>
+    <g id="Grupo_106410" data-name="Grupo 106410" transform="translate(543 91)">
+      <g id="Rectángulo_45446-5" data-name="Rectángulo 45446" transform="translate(740 3314)" fill="#4dd0e1" stroke="#12263f" stroke-width="1">
+        <rect width="19" height="22" stroke="none"/>
+        <rect x="0.5" y="0.5" width="18" height="21" fill="none"/>
+      </g>
+      <g id="Grupo_106408-5" data-name="Grupo 106408" transform="translate(0 -1)">
+        <g id="Rectángulo_45447-5" data-name="Rectángulo 45447" transform="translate(737 3319)" fill="#4dd0e1" stroke="#12263f" stroke-width="1">
+          <rect width="9" height="6" stroke="none"/>
+          <rect x="0.5" y="0.5" width="8" height="5" fill="none"/>
+        </g>
+        <g id="Rectángulo_45448-5" data-name="Rectángulo 45448" transform="translate(737 3327)" fill="#4dd0e1" stroke="#12263f" stroke-width="1">
+          <rect width="9" height="6" stroke="none"/>
+          <rect x="0.5" y="0.5" width="8" height="5" fill="none"/>
+        </g>
+      </g>
+    </g>
+    <g id="Grupo_106415" data-name="Grupo 106415" transform="translate(543 547)">
+      <g id="Rectángulo_45446-6" data-name="Rectángulo 45446" transform="translate(740 3314)" fill="#4dd0e1" stroke="#12263f" stroke-width="1">
+        <rect width="19" height="22" stroke="none"/>
+        <rect x="0.5" y="0.5" width="18" height="21" fill="none"/>
+      </g>
+      <g id="Grupo_106408-6" data-name="Grupo 106408" transform="translate(0 -1)">
+        <g id="Rectángulo_45447-6" data-name="Rectángulo 45447" transform="translate(737 3319)" fill="#4dd0e1" stroke="#12263f" stroke-width="1">
+          <rect width="9" height="6" stroke="none"/>
+          <rect x="0.5" y="0.5" width="8" height="5" fill="none"/>
+        </g>
+        <g id="Rectángulo_45448-6" data-name="Rectángulo 45448" transform="translate(737 3327)" fill="#4dd0e1" stroke="#12263f" stroke-width="1">
+          <rect width="9" height="6" stroke="none"/>
+          <rect x="0.5" y="0.5" width="8" height="5" fill="none"/>
+        </g>
+      </g>
+    </g>
+    <g id="Grupo_106411" data-name="Grupo 106411" transform="translate(535 2714.332)">
+      <g id="Rectángulo_45431" data-name="Rectángulo 45431" transform="translate(608 788.159)" fill="#fff2c9" stroke="#12263f" stroke-linejoin="round" stroke-width="1">
+        <rect width="167.438" height="28.093" stroke="none"/>
+        <rect x="0.5" y="0.5" width="166.438" height="27.093" fill="none"/>
+      </g>
+      <g id="Rectángulo_45432" data-name="Rectángulo 45432" transform="translate(608 813.975)" fill="#fff2c9" stroke="#12263f" stroke-linejoin="round" stroke-width="1">
+        <rect width="167.438" height="34.982" stroke="none"/>
+        <rect x="0.5" y="0.5" width="166.438" height="33.982" fill="none"/>
+      </g>
+      <path id="Trazado_217609" data-name="Trazado 217609" d="M6112-11008.082l9.684-9.718,168.919.187-9.883,9.531Z" transform="translate(-5503.07 11797)" fill="#ffca28" stroke="#12263f" stroke-linejoin="round" stroke-width="1"/>
+      <path id="Trazado_217610" data-name="Trazado 217610" d="M6404.96-11017.8l-12.521,9.961v59.876l12.521-10.569Z" transform="translate(-5617.428 11797)" fill="#ffca28" stroke="#12263f" stroke-linejoin="round" stroke-width="1"/>
+      <text id="Logout" transform="translate(677.148 806.234)" fill="#12263f" font-size="14" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="0">Logout</tspan></text>
+    </g>
+    <g id="Grupo_106418" data-name="Grupo 106418" transform="translate(-13.933 2684.412)">
+      <g id="Rectángulo_45431-2" data-name="Rectángulo 45431" transform="translate(602.933 788.159)" fill="#e1f5ff" stroke="#12263f" stroke-linejoin="round" stroke-width="1">
+        <rect width="172.504" height="28.093" stroke="none"/>
+        <rect x="0.5" y="0.5" width="171.504" height="27.093" fill="none"/>
+      </g>
+      <g id="Rectángulo_45432-2" data-name="Rectángulo 45432" transform="translate(602.933 813.975)" fill="#e1f5ff" stroke="#12263f" stroke-linejoin="round" stroke-width="1">
+        <rect width="172.504" height="64.982" stroke="none"/>
+        <rect x="0.5" y="0.5" width="171.504" height="63.982" fill="none"/>
+      </g>
+      <path id="Trazado_217609-2" data-name="Trazado 217609" d="M6106.15-11008.822l9.684-9.719,174.769.928-9.883,9.531Z" transform="translate(-5503.07 11797)" fill="#039be5" stroke="#12263f" stroke-linejoin="round" stroke-width="1"/>
+      <path id="Trazado_217610-2" data-name="Trazado 217610" d="M6404.96-11017.8l-12.521,9.961-.095,89.25,12.521-10.569Z" transform="translate(-5617.428 11797)" fill="#039be5" stroke="#12263f" stroke-linejoin="round" stroke-width="1"/>
+      <text id="Login_system" data-name="Login system" transform="translate(640.933 806.706)" fill="#12263f" font-size="14" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="0">Login system</tspan></text>
+    </g>
+    <g id="Grupo_106417" data-name="Grupo 106417" transform="translate(253.467 2806.237)">
+      <g id="Rectángulo_45431-3" data-name="Rectángulo 45431" transform="translate(569.933 788.159)" fill="#fff2c9" stroke="#12263f" stroke-linejoin="round" stroke-width="1">
+        <rect width="205.504" height="28.093" stroke="none"/>
+        <rect x="0.5" y="0.5" width="204.504" height="27.093" fill="none"/>
+      </g>
+      <g id="Rectángulo_45432-3" data-name="Rectángulo 45432" transform="translate(569.933 813.975)" fill="#fff2c9" stroke="#12263f" stroke-linejoin="round" stroke-width="1">
+        <rect width="205.504" height="106.982" stroke="none"/>
+        <rect x="0.5" y="0.5" width="204.504" height="105.982" fill="none"/>
+      </g>
+      <path id="Trazado_217609-3" data-name="Trazado 217609" d="M6073.748-11008.621l9.684-9.718,207.171.726-9.883,9.531Z" transform="translate(-5503.07 11797)" fill="#ffca28" stroke="#12263f" stroke-linejoin="round" stroke-width="1"/>
+      <path id="Trazado_217610-3" data-name="Trazado 217610" d="M6404.96-11017.8l-12.521,9.961v131.557l12.521-10.57Z" transform="translate(-5617.428 11797)" fill="#ffca28" stroke="#12263f" stroke-linejoin="round" stroke-width="1"/>
+      <text id="Admin_panel" data-name="Admin panel" transform="translate(632.933 806.706)" fill="#12263f" font-size="14" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="0">Admin panel</tspan></text>
+    </g>
+    <text id="Initializes_Login_system" data-name="Initializes Login system" transform="translate(1151 3536)" fill="#12263f" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="15">Initializes Login system</tspan></text>
+    <g id="Grupo_106419" data-name="Grupo 106419" transform="translate(13.4 -154.141)">
+      <g id="Grupo_106416" data-name="Grupo 106416" transform="translate(240.067 2714.332)">
+        <g id="Rectángulo_45431-4" data-name="Rectángulo 45431" transform="translate(569.933 788.159)" fill="#fff2c9" stroke="#12263f" stroke-linejoin="round" stroke-width="1">
+          <rect width="205.504" height="28.093" stroke="none"/>
+          <rect x="0.5" y="0.5" width="204.504" height="27.093" fill="none"/>
+        </g>
+        <g id="Rectángulo_45432-4" data-name="Rectángulo 45432" transform="translate(569.933 813.975)" fill="#fff2c9" stroke="#12263f" stroke-linejoin="round" stroke-width="1">
+          <rect width="205.504" height="64.982" stroke="none"/>
+          <rect x="0.5" y="0.5" width="204.504" height="63.982" fill="none"/>
+        </g>
+        <path id="Trazado_217609-4" data-name="Trazado 217609" d="M6073.748-11008.621l9.684-9.718,207.171.726-9.883,9.531Z" transform="translate(-5503.07 11797)" fill="#ffca28" stroke="#12263f" stroke-linejoin="round" stroke-width="1"/>
+        <path id="Trazado_217610-4" data-name="Trazado 217610" d="M6404.96-11017.8l-12.521,9.961-.095,89.25,12.521-10.569Z" transform="translate(-5617.428 11797)" fill="#ffca28" stroke="#12263f" stroke-linejoin="round" stroke-width="1"/>
+        <text id="User_panel" data-name="User panel" transform="translate(628.219 806.706)" fill="#12263f" font-size="14" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="0">User panel</tspan></text>
+      </g>
+      <text id="Initializes_checkout_return_Initializes_book_search_Log_out" data-name="Initializes checkout/return
+Initializes  book search
+Log out" transform="translate(821.6 3536)" fill="#12263f" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="15">Initializes checkout/return</tspan><tspan x="0" y="33" xml:space="preserve">Initializes  book search</tspan><tspan x="0" y="51">Log out</tspan></text>
+    </g>
+    <text id="Initializes_User_panel_Initializes_Admin_panel_Register_User" data-name="Initializes User panel
+Initializes  Admin panel
+Register User" transform="translate(604.6 3506.08)" fill="#12263f" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="15">Initializes User panel</tspan><tspan x="0" y="33" xml:space="preserve">Initializes  Admin panel</tspan><tspan x="0" y="51">Register User</tspan></text>
+    <text id="Initializes_Add_remove_genres_Initializes_Add_remove_book_Initializes_Manage_users_Initializes_Fees_Log_out" data-name="Initializes Add/remove genres
+Initializes  Add/remove book
+Initializes  Manage users
+Initializes  Fees
+Log out" transform="translate(835 3627.906)" fill="#12263f" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="15">Initializes Add/remove genres</tspan><tspan x="0" y="33" xml:space="preserve">Initializes  Add/remove book</tspan><tspan x="0" y="51" xml:space="preserve">Initializes  Manage users</tspan><tspan x="0" y="69" xml:space="preserve">Initializes  Fees</tspan><tspan x="0" y="87">Log out</tspan></text>
+    <text id="search_void" data-name="search() void" transform="translate(1151 3437)" fill="#12263f" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="15">search() void</tspan></text>
+    <text id="asignFeed_void" data-name="asignFeed() void" transform="translate(1151 3893)" fill="#12263f" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="15">asignFeed() void</tspan></text>
+    <path id="Trazado_217613" data-name="Trazado 217613" d="M6660-8450h-51v83.733h51" transform="translate(-5517 11797)" fill="none" stroke="#12263f" stroke-width="2"/>
+    <path id="Trazado_217614" data-name="Trazado 217614" d="M6609-8450v83.733h45.528" transform="translate(-5517 11887)" fill="none" stroke="#12263f" stroke-width="2" stroke-dasharray="2 2"/>
+    <path id="Trazado_217616" data-name="Trazado 217616" d="M6609-8340v-110h45.528" transform="translate(-5517 11994.499)" fill="none" stroke="#12263f" stroke-width="2" stroke-dasharray="2 2"/>
+    <path id="Trazado_217615" data-name="Trazado 217615" d="M6609-8450v230.953h51" transform="translate(-5517 12106.047)" fill="none" stroke="#12263f" stroke-width="2"/>
+    <path id="Trazado_217617" data-name="Trazado 217617" d="M6763.4-8450v81.585H6609" transform="translate(-5835.4 11889.146)" fill="none" stroke="#12263f" stroke-width="2"/>
+    <line id="Línea_1677" data-name="Línea 1677" x1="51" transform="translate(1041 3389)" fill="none" stroke="#12263f" stroke-width="2"/>
+    <line id="Línea_1681" data-name="Línea 1681" y1="64" transform="translate(928 3521)" fill="none" stroke="#12263f" stroke-width="2"/>
+    <line id="Línea_1679" data-name="Línea 1679" x1="51" transform="translate(1092 3727)" fill="none" stroke="#12263f" stroke-width="2"/>
+    <line id="Línea_1680" data-name="Línea 1680" x1="51" transform="translate(1092 3813)" fill="none" stroke="#12263f" stroke-width="2"/>
+    <line id="Línea_1678" data-name="Línea 1678" x1="102" transform="translate(1041 3656)" fill="none" stroke="#12263f" stroke-width="2"/>
+    <path id="Polígono_77" data-name="Polígono 77" d="M4.6,0,9.2,7H0Z" transform="translate(1140 3516.133) rotate(90)" fill="#12263f"/>
+    <path id="Polígono_78" data-name="Polígono 78" d="M4.6,0,9.2,7H0Z" transform="translate(1140 3539.9) rotate(90)" fill="#12263f"/>
+  </g>
+</svg>
