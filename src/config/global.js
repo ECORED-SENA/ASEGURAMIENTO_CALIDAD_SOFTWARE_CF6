@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Patrones de diseño de <em>software</em>',
     descripcionCurso:
-      'Los patrones de diseño de <b>software</b> surgen a partir de experiencias desarrolladas en la industria y representan un conjunto de formas estandarizadas, probadas y repetibles, que permiten resolver uno o varios problemas particulares que se presentan en el diseño del <em>software</em>.',
+      'Los patrones de diseño de <em>software</em> surgen a partir de experiencias desarrolladas en la industria y representan un conjunto de formas estandarizadas, probadas y repetibles, que permiten resolver uno o varios problemas particulares que se presentan en el diseño del <em>software</em>.',
     imagenBannerPrincipal: require('@/assets/curso/banner-img.svg'),
     fondoBannerPrincipal: require('@/assets/curso/banner-bg.svg'),
   },
@@ -33,7 +33,44 @@ export default {
         numero: '2',
         titulo: 'Patrones de arquitectura',
         desarrolloContenidos: true,
-        subMenu: [],
+        subMenu: [
+          {
+            icono: 'far fa-file-alt',
+            numero: '2.1',
+            titulo: 'Patrón multicapa',
+            hash: 't_2_1',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '2.2',
+            titulo: 'Patrón Modelo Vista Controlador',
+            hash: 't_2_2',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '2.3',
+            titulo: 'Arquitectura monolítica',
+            hash: 't_2_3',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '2.4',
+            titulo: 'Microservicios',
+            hash: 't_2_4',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '2.5',
+            titulo: 'Diseño de la arquitectura',
+            hash: 't_2_5',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '2.6',
+            titulo: 'Estilos arquitectónicos',
+            hash: 't_2_6',
+          },
+        ],
       },
       {
         nombreRuta: 'tema3',
@@ -41,7 +78,26 @@ export default {
         numero: '3',
         titulo: 'Patrones comportamentales',
         desarrolloContenidos: true,
-        subMenu: [],
+        subMenu: [
+          {
+            icono: 'far fa-file-alt',
+            numero: '3.1',
+            titulo: 'Estrategia',
+            hash: 't_3_1',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '3.2',
+            titulo: 'Comando',
+            hash: 't_3_2',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '3.3',
+            titulo: '<em>Iterator</em>',
+            hash: 't_3_3',
+          },
+        ],
       },
       {
         nombreRuta: 'tema4',
@@ -49,7 +105,20 @@ export default {
         numero: '4',
         titulo: 'Patrones creacionales',
         desarrolloContenidos: true,
-        subMenu: [],
+        subMenu: [
+          {
+            icono: 'far fa-file-alt',
+            numero: '4.1',
+            titulo: '<em>Singleton</em>',
+            hash: 't_4_1',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '4.1',
+            titulo: 'Fábrica abstracta',
+            hash: 't_4_1',
+          },
+        ],
       },
       {
         nombreRuta: 'tema5',
@@ -57,7 +126,20 @@ export default {
         numero: '5',
         titulo: 'Patrones estructurales',
         desarrolloContenidos: true,
-        subMenu: [],
+        subMenu: [
+          {
+            icono: 'far fa-file-alt',
+            numero: '5.1',
+            titulo: 'Fachada',
+            hash: 't_5_1',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '5.2',
+            titulo: '<em>Delegate</em>',
+            hash: 't_5_2',
+          },
+        ],
       },
       {
         nombreRuta: 'tema6',
@@ -81,7 +163,14 @@ export default {
         numero: '8',
         titulo: 'Diagrama de componentes',
         desarrolloContenidos: true,
-        subMenu: [],
+        subMenu: [
+          {
+            icono: 'far fa-file-alt',
+            numero: '',
+            titulo: 'Síntesis',
+            hash: 'Sintesis',
+          },
+        ],
       },
     ],
     subMenu: [
