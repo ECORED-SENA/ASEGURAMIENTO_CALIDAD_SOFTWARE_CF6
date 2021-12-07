@@ -3,9 +3,9 @@
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
     
-    .titulo-principal
+    .titulo-principal.color-acento-contenido
       .titulo-principal__numero
-        span 5
+        span.text-white 5
       h1 Patrones estructurales
 
     img(src='@/assets/curso/t5/f1.jpg' alt='pantallas con código fuente').mb-4

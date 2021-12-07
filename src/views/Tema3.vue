@@ -5,7 +5,7 @@
 
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
-        span 3
+        span.text-white 3
       h1 Patrones comportamentales
 
     .row.align-items-end.justify-content-center.mb-5.bg3
@@ -49,14 +49,15 @@
       h2 3.2 Comando
 
     .row.align-items-center.mb-5
-      .col-lg-6.tarjeta.py-4.ofRight(style='background-color:rgba(255,202,40,.29)')
-        p El patrón comando permite aislar los objetos que realizan una petición de los objetos concretos encargados de recibir y realizar dicha acción. Esto permite, entre otras cosas, que las peticiones puedan ser enviadas a varios receptores y, si se maneja el estado de las solicitudes, controla acciones de tipo Undo y Redo.
-        p El patrón comando necesita la implementación de varios elementos (Landa, 2018c), así:
+      .col-lg-6
+        .tarjeta(style='background-color:rgba(255,202,40,.29);padding:1rem 1000px 1rem 2rem;margin: 0 -1000px 0 0')
+          p El patrón comando permite aislar los objetos que realizan una petición de los objetos concretos encargados de recibir y realizar dicha acción. Esto permite, entre otras cosas, que las peticiones puedan ser enviadas a varios receptores y, si se maneja el estado de las solicitudes, controla acciones de tipo Undo y Redo.
+          p.mb-0 El patrón comando necesita la implementación de varios elementos (Landa, 2018c), así:
       .col-lg-6
         figure
           img(src='@/assets/curso/t3/f4.svg' alt='imagen relacionada')
 
-    .col-lg-7.mx-auto
+    .col-lg-7.mx-auto.mb-5
       p.text-center En la Figura 3, se puede ver cada uno de los componentes del patrón y cómo interactúan entre ellos.
       .titulo-sexto.color-acento-contenido
         span 
@@ -64,13 +65,13 @@
           | Diagrama patrón comando
       img(src='@/assets/curso/t3/f5.svg' alt='imagen relacionada')
 
-    .col-lg-10.border12.p-5.mx-auto(style='background-color:rgba(77,208,225,.25)')
+    .col-lg-10.border12.pt-5.px-5.mx-auto(style='background-color:rgba(77,208,225,.25)')
       .row.align-items-center.justify-content-center
         .col-lg-5
           p Para entender mejor este patrón, imagine el siguiente contexto: una persona (cliente) quiere hacer uso del televisor y, para poder realizar esto, hace todas las solicitudes de servicios por medio del control remoto (Invoker). El control remoto se comunica con una interfaz que se encarga de responder a las solicitudes de cada uno de los comandos que el usuario puede hacer, como, por ejemplo, prender el televisor, apagar el televisor, subir el volumen, etc. Cada comando realiza una acción particular sobre el televisor (Receptor).
         .col-lg-5
           figure
-            img(src='@/assets/curso/t3/f6.svg' alt='imagen relacionada')
+            img(src='@/assets/curso/t3/tv.svg' alt='imagen relacionada')
 
     Separador
     #t_3_3.titulo-segundo.color-acento-contenido
@@ -89,7 +90,7 @@
             p Corresponden a un mecanismo que permite recorrer la estructura de acuerdo con su secuencia de inicio a fin.
       .col-lg-4
         figure
-          img(src='@/assets/curso/t3/f7.svg' alt='imagen relacionada')
+          img(src='@/assets/curso/t3/f8.svg' alt='imagen relacionada')
 
     p El enumerador, por lo tanto, se encarga de implementar un conjunto de métodos estándar para poder establecer la secuencia con la que se debe recorrer la estructura. Entre los métodos más comunes, se encuentra, por ejemplo, el método 
       em moveNext()
@@ -100,10 +101,14 @@
       | , que permite iniciar nuevamente la secuencia desde su punto de partida. El iterador necesita del enumerador para poder hacer el proceso de recorrido (Landa, 2018c).
     p En la siguiente figura, se puede ver cada uno de los componentes del patrón y cómo interactúan entre ellos.
 
-    .row
+    .row.align-items-center
       .col-lg-7
+        .titulo-sexto.color-acento-contenido
+          span 
+            b Figura 4. 
+            | Diagrama patrón iterador
         figure
-          img(src='@/assets/curso/t3/f8.svg' alt='imagen relacionada')
+          img(src='@/assets/curso/t3/f9.svg' alt='imagen relacionada')
       .col-lg-5
         p Este tipo de operaciones son tan comunes en los sistemas actuales que los lenguajes de programación ya poseen una implementación propia del patrón iterador.
 
