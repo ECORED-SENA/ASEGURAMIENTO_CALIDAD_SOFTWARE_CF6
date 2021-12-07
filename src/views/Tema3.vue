@@ -53,9 +53,25 @@
         .tarjeta(style='background-color:rgba(255,202,40,.29);padding:1rem 1000px 1rem 2rem;margin: 0 -1000px 0 0')
           p El patrón comando permite aislar los objetos que realizan una petición de los objetos concretos encargados de recibir y realizar dicha acción. Esto permite, entre otras cosas, que las peticiones puedan ser enviadas a varios receptores y, si se maneja el estado de las solicitudes, controla acciones de tipo Undo y Redo.
           p.mb-0 El patrón comando necesita la implementación de varios elementos (Landa, 2018c), así:
-      .col-lg-6
-        figure
-          img(src='@/assets/curso/t3/f4.svg' alt='imagen relacionada')
+      .col-lg-6(data-aos='fade-left')
+        ImagenInfografica.color-secundario.mb-5
+          template(v-slot:imagen)
+            figure
+              img(src='@/assets/curso/t3/f4.svg' alt='imagen relacionada')
+          .p-2.tarjeta.tarjeta--gris(y="31.2%" x="30.5%" numero="")
+            h5.mb-0 Comando: es la clase que sirve de puente entre el cliente y los receptores.
+          .p-2.tarjeta.tarjeta--gris(y="44%" x="33.8%" numero="")
+            h5.mb-0 
+              em Invoker: 
+              | elemento usado por los clientes y que le solicita al comando llevar a cabo una acción.
+          .p-2.tarjeta.tarjeta--gris(y="57%" x="38.1%" numero="")
+            h5.mb-0 Cliente: invoca la ejecución de las acciones desde el Invoker.
+          .p-2.tarjeta.tarjeta--gris(y="69.5%" x="42.8%" numero="")
+            h5.mb-0 IComando: interfaz donde se especifican las operaciones a ejecutar.
+          .p-2.tarjeta.tarjeta--gris(y="82.5%" x="47.4%" numero="")
+            h5.mb-0 Receptor: clase que realiza la acción.
+          .p-2.tarjeta.tarjeta--gris(y="82.5%" x="67.4%" numero="")
+            h5.mb-0 Ejecutar: operación que necesita ser llevada a cabo.
 
     .col-lg-7.mx-auto.mb-5
       p.text-center En la Figura 3, se puede ver cada uno de los componentes del patrón y cómo interactúan entre ellos.
