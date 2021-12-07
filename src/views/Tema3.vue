@@ -8,9 +8,9 @@
         span 3
       h1 Patrones comportamentales
 
-    .row.align-items-end.justify-content-center.mb-5
-      .col-lg-6.ofVisible.bg3
-        p.mb-0 Como se había mencionado en los conceptos GOF, los patrones de diseño comportamentales se centran en definir la forma en cómo los objetos interactúan entre ellos por medio de mensajes. 
+    .row.align-items-end.justify-content-center.mb-5.bg3
+      .col-lg-6.ofVisible
+        p.mb-5 Como se había mencionado en los conceptos GOF, los patrones de diseño comportamentales se centran en definir la forma en cómo los objetos interactúan entre ellos por medio de mensajes. 
       .col-lg-5
         figure
           img(src='@/assets/curso/t3/f1.svg' alt='imagen relacionada')
@@ -23,9 +23,9 @@
       .col-lg-7.tarjeta.ofvisible(style='background-color:#1565c0;')
         .col-auto.ms-5
           img(src='@/assets/curso/comilla1.svg' alt='"' style='width:73px;margin-top:-10px;')
-        .col-10.mx-auto.p-5
+        .col-11.mx-auto.p-5
           p.text-white El patrón estrategia permite encapsular un conjunto de algoritmos de forma que puedan ser seleccionados dinámicamente durante el tiempo de ejecución de acuerdo con las acciones del cliente. Este patrón es una de las formas en las que se ven reflejadas fácilmente las características de la programación orientada a objetos, particularmente, lo referente a encapsulamiento y polimorfismo.
-          h6.text-right <span class='text-white'>(Landa, 2018c)</span> <i class='fas fa-square cac'></i>
+          h6.text-right.fRight.mb-5 <span class='text-white'>(Landa, 2018c)</span> <i class='fas fa-square cac'></i>
       .col-lg-5.p-4(style='background-color:rgba(21,101,192,.15);')
         .titulo-sexto.color-acento-contenido
           span 

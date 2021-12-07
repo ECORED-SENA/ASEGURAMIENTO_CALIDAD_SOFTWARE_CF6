@@ -3,13 +3,13 @@
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
-    .titulo-principal
+    .titulo-principal.color-acento-contenido
       .titulo-principal__numero
-        span 1
+        span.text-white 1
       h1 Conceptos GOF
 
     .row.align-items-center.mb-5
-      .col-lg-5
+      .col-lg-5(data-aos='fade-right')
         figure
           img(src='@/assets/curso/t1/f1.jpg' alt='Laptop')
       .col-lg-7
@@ -21,13 +21,13 @@
 
         .col-lg-8.mx-auto
           hr
-          .row.align-items-center.mb-3
+          .row.align-items-center.mb-3(data-aos='fade-left')
             .col-auto
               img(src='@/assets/curso/t1/f2.svg' alt='1' style='max-width:55px')
             .col
               p.mb-0 Programa una interfaz, no una implementación.
           hr
-          .row.align-items-center.mb-3
+          .row.align-items-center.mb-3(data-aos='fade-left')
             .col-auto
               img(src='@/assets/curso/t1/f3.svg' alt='2' style='max-width:55px')
             .col
@@ -37,7 +37,7 @@
     p.text-center Para EcuRed (s. f.), los patrones de diseño tienen las siguientes características:
 
     .row.align-items-center.justify-content-center.mb-5
-      .col-lg-4
+      .col-lg-4(data-aos='fade-right')
         figure
           img(src='@/assets/curso/t1/f4.svg' alt='imagen relacionada')
       .col-lg-6
@@ -67,89 +67,52 @@
       template(v-slot:imagen)
         figure
           img(src='@/assets/curso/t1/f5.png', alt='Patrones GOF')
-      .p-4(y="46.2%" x="7.4%" numero="")
-        p Fábrica Abstracta 
-          br
-          em (Abstract Factory)
-      .p-4(y="55.05%" x="7.4%" numero="")
-        p Método de Fabricación
-          br
-          em (Factory Method)
-      .p-4(y="63.94%" x="7.4%" numero="")
-        p Prototipo 
-          br
-          em (Prototype)
-      .p-4(y="72.8%" x="7.4%" numero="")
-        p 
-          em Singleton
-      .p-4(y="80.7%" x="7.4%" numero="")
-        p Constrsuctor
-          br
-          em (Builder)
-      .p-4(y="46.2%" x="34.97%" numero="")
-        p Adaptador
-          br
-          em (Adapter)
-      .p-4(y="55.05%" x="34.97%" numero="")
-        p Puente
-          br
-          em (Bridge)
-      .p-4(y="63.94%" x="34.97%" numero="")
-        p Objeto compuesto
-          br
-          em (Composite)
-      .p-4(y="72.8%" x="34.97%" numero="")
-        p Envoltorio
-          br
-          em (Decorator)
-      .p-4(y="80.7%" x="34.97%" numero="")
-        p Fachada
-          br
-          em (Facade)
-      .p-4(y="45.94%" x="64.1%" numero="")
-        p Cadena de responsabilidad
-          br
-          em (Chain of responsibility)
-      .p-4(y="61.5%" x="64.1%" numero="")
-        p Orden
-          br
-          em (Command)
-      .p-4(y="70.25%" x="64.1%" numero="")
-        p Intérprete
-          br
-          em (Interpreter)
-      .p-4(y="79.45%" x="64.1%" numero="")
-        p Iterador
-          br
-          em (Iterator)
-      .p-4(y="88.55%" x="64.1%" numero="")
-        p Mediador
-          br
-          em (Mediator)
-      .p-4(y="97%" x="64.1%" numero="")
-        p Observador
-          br
-          em (Observer)
-      .p-4(y="45.85%" x="95.09%" numero="")
-        p Estado
-          br
-          em (State)
-      .p-4(y="54.78%" x="95.09%" numero="")
-        p Estrategia
-          br
-          em (Strategy)
-      .p-4(y="63.55%" x="95.09%" numero="")
-        p Método plantilla
-          br
-          em (Template method)
-      .p-4(y="72.8%" x="95.09%" numero="")
-        p Visitante
-          br
-          em (Visitor)
-      //.p-4(y="84.45%" x="95.09%" numero="")
-        p 
-          br
-          em 
+      .p-4.tarjeta.tarjeta--azul(y="45.9%" x="7.4%" numero="")
+        p Crea diferentes familias de objetos relacionados o dependientes, como, por ejemplo, la creación de diferentes elementos de una interfaz gráfica.
+      .p-4.tarjeta.tarjeta--azul(y="54.75%" x="7.4%" numero="")
+        p Define una interfaz para crear un objeto, pero permite que las subclases determinen la clase a implementar.
+      .p-4.tarjeta.tarjeta--azul(y="63.6%" x="7.4%" numero="")
+        p Se basa en la clonación de objetos copiándolos de un prototipo.
+      .p-4.tarjeta.tarjeta--azul(y="72.38%" x="7.4%" numero="")
+        p Restringe una clase a una sola instancia y provee un punto global de acceso a la clase.
+      .p-4.tarjeta.tarjeta--azul(y="80.25%" x="7.4%" numero="")
+        p Separa la construcción de objetos complejos de su representación.
+      .p-4.tarjeta.tarjeta--azul(y="45.9%" x="34.95%" numero="")
+        p Convierte una interfaz de una clase en otra.
+      .p-4.tarjeta.tarjeta--azul(y="54.75%" x="34.95%" numero="")
+        p Desacopla una abstracción de su implementación, permitiendo modificarlas independientemente.
+      .p-4.tarjeta.tarjeta--azul(y="63.6%" x="34.95%" numero="")
+        p Construye objetos complejos a partir de otros más simples, utilizando para ello la composición recursiva y una estructura de árbol.
+      .p-4.tarjeta.tarjeta--azul(y="72.5%" x="34.95%" numero="")
+        p Permite añadir dinámicamente funcionalidad a un objeto existente, evitando heredar sucesivas clases para incorporar la nueva funcionalidad.
+      .p-4.tarjeta.tarjeta--azul(y="80.65%" x="34.95%" numero="")
+        p Permite una interfaz unificada para un conjunto de interfaces en un subsistema.
+      .p-4.tarjeta.tarjeta--azul(y="88.8%" x="34.95%" numero="")
+        p Emplea un uso compartido para eliminar o reducir la redundancia cuando se tiene gran cantidad de objetos con información idéntica.
+      .p-4.tarjeta.tarjeta--azul(y="97%" x="34.95%" numero="")
+        p Proporciona un objeto sustituto para controlar el acceso a otro.
+      .p-4.tarjeta.tarjeta--azul(y="45.65%" x="63.25%" numero="")
+        p Permite que más de un objeto tenga la posibilidad de atender una petición.
+      .p-4.tarjeta.tarjeta--azul(y="61%" x="63.25%" numero="")
+        p Encapsula una petición como un objeto y permite “deshacer” la petición.
+      .p-4.tarjeta.tarjeta--azul(y="69.8%" x="63.25%" numero="")
+        p Permite construir un intérprete de lenguaje para una gramática simple y sencilla.
+      .p-4.tarjeta.tarjeta--azul(y="79%" x="63.25%" numero="")
+        p Define una interfaz que declara los métodos necesarios para acceder secuencialmente a una colección de objetos sin exponer su estructura interna.
+      .p-4.tarjeta.tarjeta--azul(y="88%" x="63.25%" numero="")
+        p Coordina las relaciones entre sus asociados. Permite la interacción de varios objetos, sin generar acoples fuertes en esas relaciones.
+      .p-4.tarjeta.tarjeta--azul(y="96.5%" x="63.25%" numero="")
+        p Almacena el estado interno de un objeto y lo restaura posteriormente.
+      .p-4.tarjeta.tarjeta--azul(y="45.5%" x="95.05%" numero="")
+        p Dependencia de uno a muchos para notificar cambios de estado de un objeto.
+      .p-4.tarjeta.tarjeta--azul(y="54.4%" x="95.05%" numero="")
+        p Permite a un objeto alterar su comportamiento dependiendo del estado interno del mismo.
+      .p-4.tarjeta.tarjeta--azul(y="63.2%" x="95.05%" numero="")
+        p Define familias de algoritmos, los encapsula y maneja su selección.
+      .p-4.tarjeta.tarjeta--azul(y="72%" x="95.05%" numero="")
+        p Define el esqueleto de un algoritmo y permite que clases derivadas redefinan ciertos pasos.
+      .p-4.tarjeta.tarjeta--azul(y="81.3%" x="95.05%" numero="")
+        p Operaciones aplicadas a elementos de una estructura de objetos.
 
 </template>
 

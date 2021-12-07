@@ -3,12 +3,12 @@
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
-    .titulo-principal
+    .titulo-principal.color-acento-contenido
       .titulo-principal__numero
-        span 2
+        span.text-white 2
       h1 Patrones de arquitectura
     
-    img(src='@/assets/curso/t2/f1.jpg' alt='imagen relacionada').mb-5
+    img(src='@/assets/curso/t2/f1.jpg' alt='imagen relacionada' data-aos='flip-up').mb-5
 
     p Para hablar de patrones, primero es necesario hablar de arquitectura de <em> software </em>. Esta consiste en una disciplina dentro del desarrollo de <em> software </em>. Como ya se sabe, este desarrollo es algo intangible y puede ser tan complejo como las necesidades que se quieren resolver, por lo tanto, es importante tener en cuenta que, cuando se piensa en la escalabilidad del <em> software </em> y su usabilidad, utilizando los recursos disponibles y sacándole el máximo provecho a esta arquitectura, posibilitando un ciclo de vida mucho más largo, se debe pensar que una aplicación de <em> software </em> es una especie de lego, donde todas sus piezas se encajan para poder cumplir con diversas funciones. 
     p Dentro de estos patrones de arquitectura, se encuentran diferentes tipos, que permiten generar <em> software </em> con mayor rendimiento. Algunos de estos son:
@@ -19,10 +19,10 @@
 
     p.mb-5 Son patrones de X niveles y se organizan en capas horizontales. Muchas de las aplicaciones informáticas han tomado este patrón como arquitectura, funciona conectando los componentes, pero estos no dependen uno del otro. Cada una de estas capas cumple con una función específica en el desarrollo de la aplicación. Su objetivo primordial es la separación de la lógica de negocios de la lógica de diseño, es decir, separar la capa de datos de la capa de presentación al usuario. 
 
-    .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5
+    .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5.mb-5.reverse
       .bloque-texto-g__texto.p-4
         p.mb-0 La ventaja que ofrece consiste en que el desarrollo se puede llevar a cabo en varios niveles. En caso de realizar algún cambio, sólo se afecta el nivel requerido, sin tener que revisar todo el código. Un ejemplo de esto es el modelo de interconexión de sistemas abiertos, donde la capa de presentación se encarga de todo el diseño y desarrollo visual de parte del usuario, mientras que la capa de negocio se encarga de ejecutar las reglas y la lógica del negocio. Cada capa tiene funciones específicas, una capa informa cómo debe comportarse la venta de un producto, teniendo en cuenta la lógica y reglas establecidas para registrar esa venta, de esta forma, el patrón permite delegar funcionalidades propias de cada capa.
-      .bloque-texto-g__img(
+      .bloque-texto-g__img(data-aos='fade-left'
         :style="{'background-image': `url(${require('@/assets/curso/t2/f2.jpg')})`}"
       )
 
@@ -34,11 +34,11 @@
           b Figura 1 
           | Arquitectura de tres capas
 
-      img(src='@/assets/curso/t2/f3.svg' alt='')
+      img(src='@/assets/curso/t2/f3.svg' alt='' data-aos='flip-left')
       .row.px-2
-        .col-md-6.p-4.me-0(style='background-color: rgba(77,208,225,.15)')
+        .col-md-6.p-4.me-0(style='background-color: rgba(77,208,225,.15)' data-aos='fade-right')
           p.mb-0 Este patrón puede dividirse entre capas tantas veces se decida según su arquitectura, solo se debe tener en cuenta que, aunque es una buena forma de desarrollar, si existen muchas capas, también podría ser contraproducente, así que depende del juicio del arquitecto de <em> software </em> la distribución de capas que contemple.
-        .col-md-6.p-4.ms-0(style='background-color: rgba(255,202,40,.15)')
+        .col-md-6.p-4.ms-0(style='background-color: rgba(255,202,40,.15)' data-aos='fade-left')
           h3 Ventajas
           ul.lista-ul
             li 
@@ -106,11 +106,11 @@
               | , en la vista. Esta información se solicita al usuario dentro de dos cajas de texto.
           .col-lg-4.order-first.order-lg-last
             figure
-              img(src='@/assets/curso/t2/f6.svg' alt='')
+              img(src='@/assets/curso/t2/f6.svg' alt='' data-aos='fade-left')
         .row.align-items-center 
-          .col-lg-4.order-first.order-lg-last
+          .col-lg-4
             figure
-              img(src='@/assets/curso/t2/f7.svg' alt='')
+              img(src='@/assets/curso/t2/f7.svg' alt='' data-aos='fade-right')
           .col-md-8
             p.mb-0 El usuario da clic en el botón ingresar, siendo esta una petición mediante un evento desde la vista.
         .row.align-items-center 
@@ -118,11 +118,11 @@
             p.mb-0 La vista envía esta petición mediante el evento al controlador y recibe los datos ingresados por el usuario, por medio de un arreglo.
           .col-lg-4.order-first.order-lg-last
             figure
-              img(src='@/assets/curso/t2/f8.svg' alt='')
+              img(src='@/assets/curso/t2/f8.svg' alt='' data-aos='fade-left')
         .row.align-items-center 
-          .col-lg-4.order-first.order-lg-last
+          .col-lg-4
             figure
-              img(src='@/assets/curso/t2/f9.svg' alt='')
+              img(src='@/assets/curso/t2/f9.svg' alt='' data-aos='fade-right')
           .col-md-8
             p.mb-0 El controlador envía esta información y manda una petición de consulta al modelo.
         .row.align-items-center 
@@ -130,11 +130,11 @@
             p.mb-0 El modelo, que es una representación de los datos, verifica si el usuario existe y la contraseña es la correcta.
           .col-lg-4.order-first.order-lg-last
             figure
-              img(src='@/assets/curso/t2/f10.svg' alt='')
+              img(src='@/assets/curso/t2/f10.svg' alt='' data-aos='fade-left')
         .row.align-items-center 
-          .col-lg-4.order-first.order-lg-last
+          .col-lg-4
             figure
-              img(src='@/assets/curso/t2/f11.svg' alt='')
+              img(src='@/assets/curso/t2/f11.svg' alt='' data-aos='fade-right')
           .col-md-8
             p.mb-0 El modelo envía el resultado al controlador, que fue quien hizo la petición de consulta.
         .row.align-items-center.justify-content-center 
@@ -148,13 +148,12 @@
     #t_2_3.titulo-segundo.color-acento-contenido
       h2 2.3 Arquitectura monolítica
 
-    .row.p-4.ofVisible.align-items-center.mb-5(style='background-color:rgba(77,208,225,.15)').pRelative
+    .row.p-4.align-items-center.mb-5
       .col-lg-9
-        p.mb-0 La arquitectura monolítica es aquella en la que el<em> software </em>está estructurado de forma tal que todos los aspectos funcionales del mismo quedan acoplados y sujetos en un mismo programa. En esta arquitectura, cada proceso o microservicio es un elemento independiente. Es utilizada en aplicaciones en las que todo se desarrolla en una misma parte, aunque también se utilizan módulos para desarrollar. En el momento de compilarse, lo hace de forma completa, como una sola, y se comprende en una interfaz del lado del cliente, una aplicación del lado del servidor y una base de datos. Al igual que las otras arquitecturas, tiene sus ventajas y desventajas:
-
-      .col-lg-3.pAbsolute
+        p.mb-0(style='background-color:rgba(77,208,225,.15); padding: 1.5rem 600px 1.5rem 6rem;margin:0 -600px 0 -6rem;') La arquitectura monolítica es aquella en la que el<em> software </em>está estructurado de forma tal que todos los aspectos funcionales del mismo quedan acoplados y sujetos en un mismo programa. En esta arquitectura, cada proceso o microservicio es un elemento independiente. Es utilizada en aplicaciones en las que todo se desarrolla en una misma parte, aunque también se utilizan módulos para desarrollar. En el momento de compilarse, lo hace de forma completa, como una sola, y se comprende en una interfaz del lado del cliente, una aplicación del lado del servidor y una base de datos. Al igual que las otras arquitecturas, tiene sus ventajas y desventajas:
+      .col-lg-3
         figure
-          img(src='@/assets/curso/t2/f13.svg' alt='')
+          img(src='@/assets/curso/t2/f13.svg' alt='users, threads, posts' data-aos='fade-left')
 
     .col-lg-10.mx-auto.mb-5
       .titulo-sexto.color-acento-contenido
@@ -204,10 +203,10 @@
     .col-lg-10.mx-auto.mb-5
       .bloque-texto-a.color-secundario.p-4.p-md-5.mb-5 
         .row.m-0.align-items-center.justify-content-between
-          .col-lg-6.mb-4.mb-lg-0
+          .col-lg-7.mb-4.mb-lg-0
             .bloque-texto-a__texto.p-4
               p Dentro de sus características está que cada servicio que se desarrolla se puede hacer de forma independiente, sin que afecte el funcionamiento del resto de la aplicación; además, se crean para solucionar problemas específicos, haciéndolos especializados, y, en caso de que un servicio de estos se vuelva muy grande, puede seguirse dividiendo en más microservicios.
-          .col-lg-6
+          .col-lg-5
             figure
               img(src='@/assets/curso/t2/f14.svg' alt='')
 

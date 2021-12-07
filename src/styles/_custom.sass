@@ -9,6 +9,91 @@ $cacb: #F3F9FF
   color: $color-acento-contenido !important
 .cab
   color: $color-acento-botones !important
+.fcp
+  background-color: $color-primario !important
+.fcs
+  background-color: $color-secundario !important
 
 .fcacb
   background-color: $cacb !important
+
+//otros
+.bg1
+  background-image: url('../assets/curso/bg1.svg')
+  background-size: 100%
+  background-position: top center
+  background-repeat: no-repeat
+
+.bg2
+  background-image: url('../assets/curso/bg2.svg')
+  background-size: cover
+  background-position: top center
+  background-repeat: no-repeat
+
+.bg3
+  background-image: url('../assets/curso/bg3.svg')
+  background-size: 100%
+  background-position: bottom center
+  background-repeat: no-repeat
+
+.fRight
+  float: right !important
+
+
+.cRedondo
+  border-radius: 3rem
+  max-width: 70%
+  margin: -5rem auto 3rem
+  
+.bloque-texto-g.color-secundario
+  background-color: rgba(3,155,229,.25) !important
+  border-left: 10px solid rgb(3,155,229)
+
+.bloque-texto-a.color-secundario
+  &::before
+    background-color: #CDF4F9 !important
+
+.bloque-texto-g
+  &__texto 
+    z-index: 1
+  &__img 
+    z-index: 0
+
+.cajon.color-primario
+  background-color: #D4FAFF !important
+
+.tabs-c
+  &__content-item
+    background-color: #D4FAFF !important
+  &__header
+    margin-bottom: 0 !important
+
+@media screen and ( max-width: 991px )
+  figure
+    img
+      max-width: 350px
+      margin: 1rem auto
+
+  
+  
+@media screen and ( min-width: 992px )
+  
+  .reverse
+    .bloque-texto-g__texto 
+      position: relative
+      width: 60%
+      background-color: rgba(255, 255, 255, 0.95)
+      left: -40%
+      z-index: 1
+      border-radius: 0 1rem 1rem 0
+    .bloque-texto-g__img 
+      width: 50%
+      position: absolute
+      top: 0
+      left: 50% !important
+      bottom: 0
+      background-position: center
+      background-size: cover
+      z-index: 0
+    
+  
