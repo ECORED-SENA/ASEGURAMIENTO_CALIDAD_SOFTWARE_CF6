@@ -210,139 +210,198 @@ export default {
   referencias: [
     {
       referencia:
-        'Zlackman, C. (2012). 100 años de moda. Sistema de Bibliotecas SENA:',
+        '<em>Amazon Web Services</em> [AWS]. (s. f.). Microservicios.',
+      link: 'https://aws.amazon.com/es/microservices',
+    },
+    {
+      referencia:
+        'Blancarte, O. (2020). Arquitectura Monolítica. Reactive Programming.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=sena_aleph000060086&vid=SENA&search_scope=sena_completo&tab=sena_completo&lang=es_ES&context=L',
+        'https://reactiveprogramming.io/blog/es/estilos-arquitectonicos/monolitico',
     },
     {
       referencia:
-        'Castellanos, O., Fumeque A., y Ramirez D. (2011). Análisis de tendencias: de la información hacia la innovación. Universidad Nacional de Colombia. Sistema de Bibliotecas SENA:',
+        'Cinergix Pty. Ltd. (2021). La Guía Fácil de los Diagramas de Despliegue UML. Blog de Creately.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000007947',
+        'https://creately.com/blog/es/diagramas/tutorial-de-diagrama-de-despliegue',
+    },
+    {
+      referencia: 'Diagramas UML. (2019). Diagrama de componentes.',
+      link: 'https://diagramasuml.com/componentes',
+    },
+    {
+      referencia: 'EcuRed. (s. f.). Patrones Gof.',
+      link: 'https://www.ecured.cu/Patrones_Gof',
     },
     {
       referencia:
-        '<em>Harpersbazaar</em>. (2019). La ropa que eliges afecta a tu estado de ánimo y cerebro, según expertos. En arpersbazaar.mx.',
+        'Gamma, E., Helm, R., Johnson, R., Vlissides, J. y Booch, G. (1994). <em>Design Patterns: Elements of Reusable Object-Oriented Software</em>. Addison-Wesley Professional.',
     },
     {
       referencia:
-        'Lafuente M., Navarro J., y Navarro J. (2005). Ilustración de moda. Sistema de Bibliotecas SENA',
+        'ITCA-FEPADE. (s. f.). Análisis y diseño de sistemas. 2.2.2 Diagramas UML estáticos.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000025549',
+        'https://virtual.itca.edu.sv/Mediadores/ads/222_diagramas_uml_estticos.html',
     },
     {
       referencia:
-        'Laver, J.,  Albizua, H., y Fortea, B. (1990). Breve historia del traje y la moda. Sistema de Bibliotecas SENA.',
-    },
-    {
-      referencia:
-        'Navarro, J.,  y Lafuente, M. (2010). Ilustración de moda: dibujo plano. Sistema de Bibliotecas SENA:',
+        'Landa, N. [nicosiored]. (2018c). Patrones de Diseño de <em>Software</em> [Video]. YouTube.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/q6j6k0/sena_aleph000023241',
+        'https://www.youtube.com/playlist?list=PLM-p96nOrGcbqbL_A29b0z3KUXdq2_fpn',
     },
     {
       referencia:
-        'Áciedad Americana de Ensayos y Materiales (ASTM). (2003). Textiles. Editorial Staff. [Book]. Sistema de Bibliotecas SENA.',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000051551',
+        'Landeta_P. (2013). 2 2 estilos arquitectónicos. <em>Slideshare</em>.',
+      link: 'https://es.slideshare.net/landeta_p/2-2-estilos-arquitectonicos',
     },
     {
       referencia:
-        'Szkutnicka, B., Cuenca, C., Koyama, A. (2010). El dibujo técnico de moda paso a paso. Sistema de Bibliotecas SENA.',
+        'Novoseltseva, E. (2020). Los 5 principales patrones de Arquitectura de <em>Software. Apiumhub.</em>',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000057728',
+        'https://apiumhub.com/es/tech-blog-barcelona/principales-patrones-arquitectura-software',
+    },
+    {
+      referencia:
+        'Universidad de Alicante. (s. f.). Modelo Vista Controlador (MVC). Servicio de Informática ASP.NET MVC 3 <em>Framework</em>.',
+      link:
+        'https://si.ua.es/es/documentacion/asp-net-mvc-3/1-dia/modelo-vista-controlador-mvc.html',
     },
   ],
   glosario: [
     {
-      termino: 'MoodBoard',
+      termino: 'Acoplamiento',
       significado:
-        'su traducción literal es mapa de inspiración y aunque su uso está muy asociado al ámbito de la decoración de interiores o la moda, <br/>realmente se utiliza en entornos creativos muy diversos, desde el diseño de productos o servicios al audiovisual o el diseño gráfico.',
+        'El acoplamiento es la forma y nivel de interdependencia entre módulos de <em>software</em>; una medida de qué tan cercanamente conectados están dos rutinas o módulos de software.',
     },
     {
-      termino: '<em>Suftware</em>',
+      termino: 'API',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'Una API es un conjunto de definiciones y protocolos que se utiliza para desarrollar e integrar el software de las aplicaciones. API significa interfaz de programación de aplicaciones. Las API permiten que sus productos y servicios se comuniquen con otros, sin necesidad de saber cómo están implementados.',
     },
     {
-      termino: 'Pirognóstico',
+      termino: 'Aplicación',
       significado:
-        'ensayo sin componentes reactivos, quiere decir, reconocimiento de los componentes, mediante la aplicación adecuada del fuego.',
+        'Una aplicación es un programa informático diseñado como una herramienta para realizar operaciones o funciones específicas. Generalmente, son diseñadas para facilitar ciertas tareas complejas y hacer más sencilla la experiencia informática de las personas.',
     },
     {
-      termino: '<em>Áectores</em>',
+      termino: 'Base de datos',
       significado:
-        'en software de diseño, son líneas que se crean y permiten, expandir, modificar, al tamaño que sea sin pixelarse porque se unen por coordenadas matemáticas del programa y no se generan por números fijos.',
+        'Una base de datos es una recopilación organizada de información o datos estructurados, que normalmente se almacena de forma electrónica en un sistema informático.',
     },
     {
-      termino: 'Moda',
+      termino: '<em>Browser</em>',
       significado:
-        'hábito repetitivo que identifica a una persona, una especie de presión social, que debe consumir, utilizar o hacer.',
+        'es el término inglés que se utiliza para identificar a un navegador web o navegador de Internet. Consiste en un software, programa o incluso aplicación que ofrece al usuario el acceso a la red.',
     },
     {
-      termino: 'Diseña',
+      termino: 'Delegar',
       significado:
-        'actividad creativa orientada a soluciones idóneas a ciertas problemáticas.',
+        'Dar [una persona o un organismo] un poder, una función o una responsabilidad a alguien para que los ejerza en su lugar o para obrar en representación suya.',
     },
     {
-      termino: 'DIseño',
+      termino: 'Escalabilidad',
       significado:
-        'actividad creativa orientada a soluciones idóneas a ciertas problemáticas.',
+        'Capacidad de adaptación y respuesta de un sistema con respecto al rendimiento del mismo a medida que aumentan de forma significativa el número de usuarios del mismo.',
     },
     {
-      termino: 'Tipología',
+      termino: 'Ícono ',
       significado:
-        'estudio de los tipos o modelos que se usan para clasificar en diversas ciencias o disciplinas.',
+        'Signo que representa un objeto o una idea con los que guarda una relación de identidad o semejanza formal.',
     },
     {
-      termino: 'Bidimensional',
+      termino: 'Implementación',
       significado:
-        'que se representa según su altura y su anchura y no su profundidad.',
+        'Poner en funcionamiento o aplicar métodos, medidas, etc., para llevar algo a cabo.',
     },
     {
-      termino: 'Interés Inferior del menor',
+      termino: 'Interfaz',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'Como interfaz se designa, en informática, la conexión física y funcional que se establece entre dos aparatos, dispositivos o sistemas que funcionan independientemente uno del otro. En este sentido, la comunicación entre un ser humano y una computadora se realiza por medio de una interfaz.',
     },
     {
-      termino: 'Interseccionalidad',
+      termino: 'Patrón',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'Quitar de una cosa lo malo, lo que es extraño o lo que no sirve, para dejarla pura. Los Patrones de diseño (Design Patterns) son una solución general, reutilizable y aplicable a diferentes problemas de diseño de software.',
     },
     {
-      termino: 'Interés superior del menor',
+      termino: 'Servidor',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'Un servidor es un conjunto de computadoras capaz de atender las peticiones de un cliente y devolverle una respuesta en concordancia.',
+    },
+    {
+      termino: 'Sintaxis',
+      significado:
+        'Según su definición, la sintaxis es la “parte de la gramática que estudia el modo en que se combinan las palabras y los grupos que éstas forman para expresar significados, así como las relaciones que se establecen entre todas esas unidades”.',
+    },
+    {
+      termino: 'Sitio web',
+      significado:
+        'Un sitio web es un conjunto de páginas web accesibles a través de Internet, convenientemente enlazadas y con una finalidad concreta.',
+    },
+    {
+      termino: '<em>Stakeholders</em>',
+      significado:
+        'Los <em>stakeholders</em> se relacionan con las entidades clave de los proyectos de desarrollo: requerimientos, actividades y resultados.',
+    },
+    {
+      termino: 'UML',
+      significado:
+        'Lenguaje unificado de modelado. Relaciona un conjunto de diagramas estandarizados para la representación de sistemas de información desde diferentes tipos de vista.',
+    },
+    {
+      termino: 'Web',
+      significado:
+        'Conjunto de información que se encuentra en una dirección determinada de Internet.',
     },
   ],
   complementario: [
     {
-      texto:
-        'BIC., (2015). “2 minutos para entender el desarrollo sostenible – Spanish”',
+      nombre:
+        'Leiva, A. [DevExperto]. (2020). Patrones de diseño software: Repaso completo en 10 minutos [Video]. YouTube.',
       tipo: 'Video',
-      link: 'https://www.google.com/',
+      link: 'https://youtu.be/6BHOeDL8vls',
     },
     {
-      texto:
-        'Arnold, M. y Osorio, F., (1998). Introducción a los conceptos básicos de la Teoría general de sistemas. Cinta moebio 3: 40-49',
-      tipo: 'Página web',
-      descarga: '/downloads/prueba.pdf',
-    },
-    {
-      texto:
-        'Balboa, C. y Dominguez, M. (2014). Economía circular como marco para el ecodiseño: el modelo ECO-3. Informador Técnico (Colombia) Volumen 78, No. 1. Pág. 52-90.',
-      tipo: 'Artículo científico',
-      link: 'https://www.google.com/',
-    },
-    {
-      texto: 'Economía de Rosquilla. (s.f.).',
-      tipo: 'Página web',
-      descarga: ['/downloads/prueba.pdf', '/downloads/prueba.pdf'],
-    },
-    {
-      texto: '2 minutos para entender el desarrollo sostenible – Spanish',
+      nombre:
+        'Landa, N. [nicosiored]. (2018b). Diagrama de Despliegue - 22 - Tutorial UML en español [Video]. YouTube.',
       tipo: 'Video',
-      link: ['https://www.google.com/', 'https://www.google.com/'],
+      link: 'https://youtu.be/NSB0ATJUavA',
+    },
+    {
+      nombre:
+        'Landa, N. [nicosiored]. (2018a). Diagrama de Componentes I - 20- Tutorial UML en español [Video]. YouTube.',
+      tipo: 'Video',
+      link: 'https://youtu.be/oOycG_n1ARs',
+    },
+    {
+      nombre:
+        'Garrido, A. [Universitat Politècnica de València – UPV]. (2017). Arquitectura del <em>software</em> multicapa [Video]. YouTube.',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/embed/kHvxX1E9vIU',
+    },
+    {
+      nombre:
+        'Fazt. (2017). ¿What is the MVC Pattern?, <em>Simple explanation</em> [Video]. YouTube.',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/embed/ANQDmqBYwns',
+    },
+    {
+      nombre:
+        '<em>Lazy Loading</em>. (2021). Arquitectura monolítica vs microservicios [Video]. YouTube.',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/embed/99YMeCBk3jw',
+    },
+    {
+      nombre:
+        '<em>Mercury</em> 7w7. (2020). Estilos de Arquitectura de <em>Software</em> [Video]. YouTube.',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=PK9TTcTosTw',
+    },
+    {
+      nombre:
+        '<em>MegaPractical</em>. (2016). Arquitectura Orientada a Servicios (SOA), <em>Enterprise Service Bus</em> TIBCO en español [Video]. YouTube.',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/embed/o_Br2vZ4uQY',
     },
   ],
   creditos: {
@@ -360,6 +419,33 @@ export default {
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
+      {
+        nombre: 'David Eduardo Lozada Cerón',
+        cargo: 'Experto temático ',
+        centro:
+          'Centro de Teleinformática y Producción Industrial - Regional Cauca',
+      },
+      {
+        nombre: 'Jonathan Guerrero Astaiza',
+        cargo: 'Experto temático',
+        centro:
+          'Centro de teleinformática y producción industrial - Regional Cauca',
+      },
+      {
+        nombre: 'María Inés Machado López',
+        cargo: 'Diseñadora instruccional',
+        centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
+      },
+      {
+        nombre: 'Carolina Coca Salazar',
+        cargo: 'Revisora metodológica y pedagógica',
+        centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
+      },
+      {
+        nombre: 'Darío González',
+        cargo: 'Corrección de estilo',
+        centro: 'Centro Agropecuario La Granja - Regional Tolima',
+      },
     ],
     desarrolloProducto: [
       {
@@ -374,18 +460,24 @@ export default {
         centro: 'Centro de Comercio y Servicios Regional Tolima',
       },
       {
-        nombre: ['Nombre 1', 'Nombre 2'],
+        nombre: 'Oscar Márquez Sanabria',
         cargo: 'Diseño web',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Nombre',
-        cargo: 'Desarrollo Front-End',
+        nombre: 'Walter Roa Serrano',
+        cargo: 'Desarrollo front-end',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
+        nombre: 'Andrés Mauricio Santaella Ochoa',
+        cargo: 'Soporte front-end',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      /*{
         nombre: 'Nombre',
         cargo: 'Producción audiovisual',
         centro:
@@ -396,7 +488,7 @@ export default {
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
-      },
+      },*/
     ],
     gestoresRepositorio: [
       {
