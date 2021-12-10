@@ -66,7 +66,7 @@
     ImagenInfografica.color-secundario.mb-5
       template(v-slot:imagen)
         figure
-          img(src='@/assets/curso/t1/f5.png', alt='Patrones GOF')
+          img(src='@/assets/curso/t1/f5.svg', alt='Patrones GOF')
       .p-4.tarjeta.tarjeta--azul(y="45.9%" x="7.4%" numero="")
         p Crea diferentes familias de objetos relacionados o dependientes, como, por ejemplo, la creación de diferentes elementos de una interfaz gráfica.
       .p-4.tarjeta.tarjeta--azul(y="54.75%" x="7.4%" numero="")

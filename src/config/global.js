@@ -114,9 +114,9 @@ export default {
           },
           {
             icono: 'far fa-file-alt',
-            numero: '4.1',
+            numero: '4.2',
             titulo: 'Fábrica abstracta',
-            hash: 't_4_1',
+            hash: 't_4_2',
           },
         ],
       },
@@ -271,12 +271,12 @@ export default {
     {
       termino: 'Acoplamiento',
       significado:
-        'El acoplamiento es la forma y nivel de interdependencia entre módulos de <em>software</em>; una medida de qué tan cercanamente conectados están dos rutinas o módulos de software.',
+        'El acoplamiento es la forma y nivel de interdependencia entre módulos de <em>software</em>; una medida de qué tan cercanamente conectados están dos rutinas o módulos de <em>software</em>.',
     },
     {
       termino: 'API',
       significado:
-        'Una API es un conjunto de definiciones y protocolos que se utiliza para desarrollar e integrar el software de las aplicaciones. API significa interfaz de programación de aplicaciones. Las API permiten que sus productos y servicios se comuniquen con otros, sin necesidad de saber cómo están implementados.',
+        'Una API es un conjunto de definiciones y protocolos que se utiliza para desarrollar e integrar el <em>software</em> de las aplicaciones. API significa interfaz de programación de aplicaciones. Las API permiten que sus productos y servicios se comuniquen con otros, sin necesidad de saber cómo están implementados.',
     },
     {
       termino: 'Aplicación',
@@ -321,7 +321,7 @@ export default {
     {
       termino: 'Patrón',
       significado:
-        'Quitar de una cosa lo malo, lo que es extraño o lo que no sirve, para dejarla pura. Los Patrones de diseño (Design Patterns) son una solución general, reutilizable y aplicable a diferentes problemas de diseño de software.',
+        'Quitar de una cosa lo malo, lo que es extraño o lo que no sirve, para dejarla pura. Los Patrones de diseño (<em>Design Patterns</em>) son una solución general, reutilizable y aplicable a diferentes problemas de diseño de <em>software</em>.',
     },
     {
       termino: 'Servidor',
@@ -356,49 +356,49 @@ export default {
   ],
   complementario: [
     {
-      nombre:
-        'Leiva, A. [DevExperto]. (2020). Patrones de diseño software: Repaso completo en 10 minutos [Video]. YouTube.',
+      texto:
+        'Leiva, A. [DevExperto]. (2020). Patrones de diseño <em>software</em>: Repaso completo en 10 minutos [Video]. YouTube.',
       tipo: 'Video',
       link: 'https://youtu.be/6BHOeDL8vls',
     },
     {
-      nombre:
+      texto:
         'Landa, N. [nicosiored]. (2018b). Diagrama de Despliegue - 22 - Tutorial UML en español [Video]. YouTube.',
       tipo: 'Video',
       link: 'https://youtu.be/NSB0ATJUavA',
     },
     {
-      nombre:
+      texto:
         'Landa, N. [nicosiored]. (2018a). Diagrama de Componentes I - 20- Tutorial UML en español [Video]. YouTube.',
       tipo: 'Video',
       link: 'https://youtu.be/oOycG_n1ARs',
     },
     {
-      nombre:
+      texto:
         'Garrido, A. [Universitat Politècnica de València – UPV]. (2017). Arquitectura del <em>software</em> multicapa [Video]. YouTube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/embed/kHvxX1E9vIU',
     },
     {
-      nombre:
+      texto:
         'Fazt. (2017). ¿What is the MVC Pattern?, <em>Simple explanation</em> [Video]. YouTube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/embed/ANQDmqBYwns',
     },
     {
-      nombre:
+      texto:
         '<em>Lazy Loading</em>. (2021). Arquitectura monolítica vs microservicios [Video]. YouTube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/embed/99YMeCBk3jw',
     },
     {
-      nombre:
+      texto:
         '<em>Mercury</em> 7w7. (2020). Estilos de Arquitectura de <em>Software</em> [Video]. YouTube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=PK9TTcTosTw',
     },
     {
-      nombre:
+      texto:
         '<em>MegaPractical</em>. (2016). Arquitectura Orientada a Servicios (SOA), <em>Enterprise Service Bus</em> TIBCO en español [Video]. YouTube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/embed/o_Br2vZ4uQY',
@@ -477,18 +477,47 @@ export default {
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
-      /*{
-        nombre: 'Nombre',
+      {
+        nombre: 'Ángela María Maldonado Jaime',
         cargo: 'Producción audiovisual',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Gilberto Junior Rodriguez Rodriguez',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'María Carolina Tamayo López',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Ricardo Vásquez Arroyave',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Wilson Andrés Arenales Caceres',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Zuleidy Maria Ruiz Torres',
+        cargo: 'Producción audiovisual',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
+      },
+      {
+        nombre: 'Veimar Celis Melendez',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
-      },*/
+      },
     ],
     gestoresRepositorio: [
       {

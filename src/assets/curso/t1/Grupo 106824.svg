@@ -1,0 +1,182 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1240" height="748.5" viewBox="0 0 1240 748.5">
+  <g id="Grupo_106824" data-name="Grupo 106824" transform="translate(-180 -1454)">
+    <path id="Rectángulo_33760" data-name="Rectángulo 33760" d="M12,0H598a12,12,0,0,1,12,12V44a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V12A12,12,0,0,1,12,0Z" transform="translate(391 1454)" fill="#4dd0e1"/>
+    <text id="Patrones_GOF" data-name="Patrones GOF" transform="translate(496 1462)" fill="#12263f" font-size="24" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="-74.771" y="25">Patrones GOF</tspan></text>
+    <rect id="Rectángulo_42309" data-name="Rectángulo 42309" width="295" height="162" rx="10" transform="translate(180 1558)" fill="#4dd0e1" opacity="0.25"/>
+    <rect id="Rectángulo_42310" data-name="Rectángulo 42310" width="400" height="162" rx="10" transform="translate(495 1558)" fill="#4dd0e1" opacity="0.25"/>
+    <rect id="Rectángulo_42311" data-name="Rectángulo 42311" width="505" height="162" rx="10" transform="translate(915 1558)" fill="#4dd0e1" opacity="0.25"/>
+    <text id="_1._Creacionales" data-name="1. Creacionales" transform="translate(201 1575)" fill="#12263f" font-size="20" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="-70.229" y="21">1. Creacionales</tspan></text>
+    <text id="_2._Estructurales" data-name="2. Estructurales" transform="translate(588 1575)" fill="#12263f" font-size="20" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="-71.416" y="21">2. Estructurales</tspan></text>
+    <text id="_3._Comportamentales" data-name="3. Comportamentales" transform="translate(989 1575)" fill="#12263f" font-size="20" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="-97.866" y="21">3. Comportamentales</tspan></text>
+    <text id="Abstraen_el_proceso_de_crear_instancias_y_configuración_de_objetos._" data-name="Abstraen el proceso de crear instancias y configuración de objetos. " transform="translate(198 1621)" fill="#12263f" font-size="20" font-family="Roboto-Regular, Roboto"><tspan x="0" y="21">Abstraen el proceso de crear </tspan><tspan x="0" y="48">instancias y configuración de </tspan><tspan x="0" y="75">objetos. </tspan></text>
+    <text id="Fábrica_Abstracta_Abstract_Factory_" data-name="Fábrica Abstracta (Abstract Factory)" transform="translate(309.5 1772.5)" fill="#12263f" font-size="20" font-family="Roboto-Regular, Roboto"><tspan x="0" y="21">Fábrica Abstracta </tspan><tspan x="0" y="48" font-family="Roboto-Italic, Roboto" font-style="italic">(Abstract Factory)</tspan></text>
+    <text id="Adaptador_Adapter_" data-name="Adaptador
+(Adapter)" transform="translate(651 1772.5)" fill="#12263f" font-size="20" font-family="Roboto-Regular, Roboto"><tspan x="0" y="21">Adaptador</tspan><tspan font-family="Roboto-Italic, Roboto" font-style="italic"><tspan x="0" y="48">(Adapter)</tspan></tspan></text>
+    <text id="Observador_Observer_" data-name="Observador
+(Observer) " transform="translate(1170.816 1769.5)" fill="#12263f" font-size="20" font-family="Roboto-Regular, Roboto"><tspan x="-102.695" y="21">Observador</tspan><tspan font-family="Roboto-Italic, Roboto" font-style="italic"><tspan x="-91.826" y="48">(Observer) </tspan></tspan></text>
+    <text id="Cadena_de_responsabilidad_Chain_of_responsibility_" data-name="Cadena de responsabilidad (Chain of responsibility) " transform="translate(1002.066 1755.5)" fill="#12263f" font-size="20" font-family="Roboto-Regular, Roboto"><tspan x="0" y="21">Cadena de </tspan><tspan x="0" y="48">responsabilidad </tspan><tspan x="0" y="75" font-family="Roboto-Italic, Roboto" font-style="italic">(Chain of </tspan><tspan x="0" y="102" font-family="Roboto-Italic, Roboto" font-style="italic">responsibility) </tspan></text>
+    <text id="Prototipo_Prototype_" data-name="Prototipo 
+(Prototype)" transform="translate(309.5 1904.5)" fill="#12263f" font-size="20" font-family="Roboto-Regular, Roboto"><tspan x="0" y="21">Prototipo </tspan><tspan font-family="Roboto-Italic, Roboto" font-style="italic"><tspan x="0" y="48">(Prototype)</tspan></tspan></text>
+    <text id="Objeto_compuesto_Composite_" data-name="Objeto compuesto
+(Composite)" transform="translate(651 1904.5)" fill="#12263f" font-size="20" font-family="Roboto-Regular, Roboto"><tspan x="0" y="21">Objeto compuesto</tspan><tspan font-family="Roboto-Italic, Roboto" font-style="italic"><tspan x="0" y="48">(Composite)</tspan></tspan></text>
+    <text id="Estrategia_Strategy_" data-name="Estrategia
+(Strategy)" transform="translate(1170.816 1901.5)" fill="#12263f" font-size="20" font-family="Roboto-Regular, Roboto"><tspan x="-89.551" y="21">Estrategia</tspan><tspan font-family="Roboto-Italic, Roboto" font-style="italic"><tspan x="-85.615" y="48">(Strategy)</tspan></tspan></text>
+    <text id="Intérprete_Interpreter_" data-name="Intérprete
+(Interpreter)" transform="translate(1002.066 1950.5)" fill="#12263f" font-size="20" font-family="Roboto-Regular, Roboto"><tspan x="0" y="21">Intérprete</tspan><tspan font-family="Roboto-Italic, Roboto" font-style="italic"><tspan x="0" y="48">(Interpreter)</tspan></tspan></text>
+    <text id="Método_de_Fabricación_Factory_Method_" data-name="Método de Fabricación (Factory Method)" transform="translate(309.5 1838.5)" fill="#12263f" font-size="20" font-family="Roboto-Regular, Roboto"><tspan x="0" y="21">Método de Fabricación </tspan><tspan x="0" y="48" font-family="Roboto-Italic, Roboto" font-style="italic">(Factory Method)</tspan></text>
+    <text id="Puente_Bridge_" data-name="Puente
+(Bridge)" transform="translate(651 1838.5)" fill="#12263f" font-size="20" font-family="Roboto-Regular, Roboto"><tspan x="0" y="21">Puente</tspan><tspan font-family="Roboto-Italic, Roboto" font-style="italic"><tspan x="0" y="48">(Bridge)</tspan></tspan></text>
+    <text id="Estado_State_" data-name="Estado
+(State)" transform="translate(1170.816 1835.5)" fill="#12263f" font-size="20" font-family="Roboto-Regular, Roboto"><tspan x="-61.777" y="21">Estado</tspan><tspan font-family="Roboto-Italic, Roboto" font-style="italic"><tspan x="-59.082" y="48">(State)</tspan></tspan></text>
+    <text id="Orden_Command_" data-name="Orden 
+(Command)" transform="translate(1002.066 1884.5)" fill="#12263f" font-size="20" font-family="Roboto-Regular, Roboto"><tspan x="0" y="21">Orden </tspan><tspan font-family="Roboto-Italic, Roboto" font-style="italic"><tspan x="0" y="48">(Command)</tspan></tspan></text>
+    <text id="Singleton" transform="translate(309.5 1983.5)" fill="#12263f" font-size="20" font-family="Roboto-Italic, Roboto" font-style="italic"><tspan x="0" y="21">Singleton</tspan></text>
+    <text id="Envoltorio_Decorator_" data-name="Envoltorio
+(Decorator)" transform="translate(651 1967.5)" fill="#12263f" font-size="20" font-family="Roboto-Regular, Roboto"><tspan x="0" y="21">Envoltorio</tspan><tspan font-family="Roboto-Italic, Roboto" font-style="italic"><tspan x="0" y="48">(Decorator)</tspan></tspan></text>
+    <text id="Método_plantilla_Template_Method_" data-name="Método plantilla (Template Method)" transform="translate(1148.816 1967.5)" fill="#12263f" font-size="20" font-family="Roboto-Regular, Roboto"><tspan x="-143.398" y="21">Método plantilla </tspan><tspan x="-167.686" y="48" font-family="Roboto-Italic, Roboto" font-style="italic">(Template Method)</tspan></text>
+    <text id="Iterador_Iterator_" data-name="Iterador 
+(Iterator)" transform="translate(1002.066 2018.5)" fill="#12263f" font-size="20" font-family="Roboto-Regular, Roboto"><tspan x="0" y="21">Iterador </tspan><tspan font-family="Roboto-Italic, Roboto" font-style="italic"><tspan x="0" y="48">(Iterator)</tspan></tspan></text>
+    <text id="Constructor_Builder_" data-name="Constructor
+(Builder)" transform="translate(309.5 2029.5)" fill="#12263f" font-size="20" font-family="Roboto-Regular, Roboto"><tspan x="0" y="21">Constructor</tspan><tspan font-family="Roboto-Italic, Roboto" font-style="italic"><tspan x="0" y="48">(Builder)</tspan></tspan></text>
+    <text id="Fachada_Facade_" data-name="Fachada
+(Facade)" transform="translate(651 2030.5)" fill="#12263f" font-size="20" font-family="Roboto-Regular, Roboto"><tspan x="0" y="21">Fachada</tspan><tspan font-family="Roboto-Italic, Roboto" font-style="italic"><tspan x="0" y="48">(Facade)</tspan></tspan></text>
+    <text id="Peso_mosca_Flyweight_" data-name="Peso mosca
+(Flyweight)" transform="translate(651 2088.739)" fill="#12263f" font-size="20" font-family="Roboto-Regular, Roboto"><tspan x="0" y="21">Peso mosca</tspan><tspan font-family="Roboto-Italic, Roboto" font-style="italic"><tspan x="0" y="48">(Flyweight)</tspan></tspan></text>
+    <text id="Apoderado_Proxy_" data-name="Apoderado
+(Proxy)" transform="translate(651 2146.5)" fill="#12263f" font-size="20" font-family="Roboto-Regular, Roboto"><tspan x="0" y="21">Apoderado</tspan><tspan font-family="Roboto-Italic, Roboto" font-style="italic"><tspan x="0" y="48">(Proxy)</tspan></tspan></text>
+    <text id="Visitante_Visitor_" data-name="Visitante
+(Visitor)" transform="translate(1178.5 2036)" fill="#12263f" font-size="20" font-family="Roboto-Regular, Roboto"><tspan x="-78.32" y="21">Visitante</tspan><tspan font-family="Roboto-Italic, Roboto" font-style="italic"><tspan x="-69.98" y="48">(Visitor)</tspan></tspan></text>
+    <text id="Mediador_Mediator_" data-name="Mediador
+(Mediator)" transform="translate(1002.066 2086.5)" fill="#12263f" font-size="20" font-family="Roboto-Regular, Roboto"><tspan x="0" y="21">Mediador</tspan><tspan font-family="Roboto-Italic, Roboto" font-style="italic"><tspan x="0" y="48">(Mediator)</tspan></tspan></text>
+    <text id="Recuerdo_Memento_" data-name="Recuerdo (Memento)" transform="translate(1002.066 2149.5)" fill="#12263f" font-size="20" font-family="Roboto-Regular, Roboto"><tspan x="0" y="21">Recuerdo </tspan><tspan x="0" y="48" font-family="Roboto-Italic, Roboto" font-style="italic">(Memento)</tspan></text>
+    <text id="Se_ocupan_de_agrupar_clases_y_objetos_para_formar_estructuras_más_complejas._Separan_la_interfaz_de_la_implementación." data-name="Se ocupan de agrupar clases y objetos para formar estructuras más complejas. Separan la interfaz de la implementación." transform="translate(511 1621)" fill="#12263f" font-size="20" font-family="Roboto-Regular, Roboto"><tspan x="0" y="21">Se ocupan de agrupar clases y objetos </tspan><tspan x="0" y="48">para formar estructuras más complejas. </tspan><tspan x="0" y="75">Separan la interfaz de la implementación.</tspan></text>
+    <text id="Describen_la_responsabilidad_de_los_objetos_y_la_forma_en_que_se_comunican_entre_ellos." data-name="Describen la responsabilidad de los objetos y la forma en que se comunican entre ellos." transform="translate(949 1621)" fill="#12263f" font-size="20" font-family="Roboto-Regular, Roboto"><tspan x="0" y="21">Describen la responsabilidad de los objetos y la </tspan><tspan x="0" y="48">forma en que se comunican entre ellos.</tspan></text>
+    <path id="Trazado_117312" data-name="Trazado 117312" d="M-7365.983-10222H-7537v55.066" transform="translate(7858 11720)" fill="none" stroke="#707070" stroke-width="2" stroke-dasharray="2 4"/>
+    <path id="Trazado_117314" data-name="Trazado 117314" d="M-7537-10200.761v53.827" transform="translate(8224.5 11700)" fill="none" stroke="#707070" stroke-width="2" stroke-dasharray="2 4"/>
+    <path id="Trazado_117313" data-name="Trazado 117313" d="M-7537-10222h171v55.066" transform="translate(8538.001 11720)" fill="none" stroke="#707070" stroke-width="2" stroke-dasharray="2 4"/>
+    <circle id="Elipse_6243" data-name="Elipse 6243" cx="7" cy="7" r="7" transform="translate(315 1542)" fill="#ffa726"/>
+    <circle id="Elipse_6245" data-name="Elipse 6245" cx="7" cy="7" r="7" transform="translate(681 1542)" fill="#ffa726"/>
+    <circle id="Elipse_6244" data-name="Elipse 6244" cx="7" cy="7" r="7" transform="translate(1164.5 1542)" fill="#ffa726"/>
+    <g id="Elipse_6246" data-name="Elipse 6246" transform="translate(248.5 1774.5)" fill="none" stroke="#707070" stroke-width="2" stroke-dasharray="2">
+      <circle cx="23" cy="23" r="23" stroke="none"/>
+      <circle cx="23" cy="23" r="22" fill="none"/>
+    </g>
+    <g id="Elipse_6252" data-name="Elipse 6252" transform="translate(590 1774.5)" fill="none" stroke="#707070" stroke-width="2" stroke-dasharray="2">
+      <circle cx="23" cy="23" r="23" stroke="none"/>
+      <circle cx="23" cy="23" r="22" fill="none"/>
+    </g>
+    <g id="Elipse_6265" data-name="Elipse 6265" transform="translate(1335.25 1771.5)" fill="none" stroke="#707070" stroke-width="2" stroke-dasharray="2">
+      <circle cx="23" cy="23" r="23" stroke="none"/>
+      <circle cx="23" cy="23" r="22" fill="none"/>
+    </g>
+    <g id="Elipse_6262" data-name="Elipse 6262" transform="translate(941.066 1772.5)" fill="none" stroke="#707070" stroke-width="2" stroke-dasharray="2">
+      <circle cx="23" cy="23" r="23" stroke="none"/>
+      <circle cx="23" cy="23" r="22" fill="none"/>
+    </g>
+    <g id="Elipse_6248" data-name="Elipse 6248" transform="translate(248.5 1906.5)" fill="none" stroke="#707070" stroke-width="2" stroke-dasharray="2">
+      <circle cx="23" cy="23" r="23" stroke="none"/>
+      <circle cx="23" cy="23" r="22" fill="none"/>
+    </g>
+    <g id="Elipse_6253" data-name="Elipse 6253" transform="translate(590 1906.5)" fill="none" stroke="#707070" stroke-width="2" stroke-dasharray="2">
+      <circle cx="23" cy="23" r="23" stroke="none"/>
+      <circle cx="23" cy="23" r="22" fill="none"/>
+    </g>
+    <g id="Elipse_6266" data-name="Elipse 6266" transform="translate(1335.25 1903.5)" fill="none" stroke="#707070" stroke-width="2" stroke-dasharray="2">
+      <circle cx="23" cy="23" r="23" stroke="none"/>
+      <circle cx="23" cy="23" r="22" fill="none"/>
+    </g>
+    <g id="Elipse_6258" data-name="Elipse 6258" transform="translate(941.066 1953.5)" fill="none" stroke="#707070" stroke-width="2" stroke-dasharray="2">
+      <circle cx="23" cy="23" r="23" stroke="none"/>
+      <circle cx="23" cy="23" r="22" fill="none"/>
+    </g>
+    <g id="Elipse_6247" data-name="Elipse 6247" transform="translate(248.5 1840.5)" fill="none" stroke="#707070" stroke-width="2" stroke-dasharray="2">
+      <circle cx="23" cy="23" r="23" stroke="none"/>
+      <circle cx="23" cy="23" r="22" fill="none"/>
+    </g>
+    <g id="Elipse_6254" data-name="Elipse 6254" transform="translate(590 1840.5)" fill="none" stroke="#707070" stroke-width="2" stroke-dasharray="2">
+      <circle cx="23" cy="23" r="23" stroke="none"/>
+      <circle cx="23" cy="23" r="22" fill="none"/>
+    </g>
+    <g id="Elipse_6267" data-name="Elipse 6267" transform="translate(1335.25 1837.5)" fill="none" stroke="#707070" stroke-width="2" stroke-dasharray="2">
+      <circle cx="23" cy="23" r="23" stroke="none"/>
+      <circle cx="23" cy="23" r="22" fill="none"/>
+    </g>
+    <g id="Elipse_6261" data-name="Elipse 6261" transform="translate(941.066 1887.5)" fill="none" stroke="#707070" stroke-width="2" stroke-dasharray="2">
+      <circle cx="23" cy="23" r="23" stroke="none"/>
+      <circle cx="23" cy="23" r="22" fill="none"/>
+    </g>
+    <g id="Elipse_6249" data-name="Elipse 6249" transform="translate(248.5 1972.5)" fill="none" stroke="#707070" stroke-width="2" stroke-dasharray="2">
+      <circle cx="23" cy="23" r="23" stroke="none"/>
+      <circle cx="23" cy="23" r="22" fill="none"/>
+    </g>
+    <g id="Elipse_6255" data-name="Elipse 6255" transform="translate(590 1973.5)" fill="none" stroke="#707070" stroke-width="2" stroke-dasharray="2">
+      <circle cx="23" cy="23" r="23" stroke="none"/>
+      <circle cx="23" cy="23" r="22" fill="none"/>
+    </g>
+    <g id="Elipse_6648" data-name="Elipse 6648" transform="translate(590 2095.5)" fill="none" stroke="#707070" stroke-width="2" stroke-dasharray="2">
+      <circle cx="23" cy="23" r="23" stroke="none"/>
+      <circle cx="23" cy="23" r="22" fill="none"/>
+    </g>
+    <g id="Elipse_6268" data-name="Elipse 6268" transform="translate(1335.25 1969.5)" fill="none" stroke="#707070" stroke-width="2" stroke-dasharray="2">
+      <circle cx="23" cy="23" r="23" stroke="none"/>
+      <circle cx="23" cy="23" r="22" fill="none"/>
+    </g>
+    <g id="Elipse_6259" data-name="Elipse 6259" transform="translate(941.066 2021.5)" fill="none" stroke="#707070" stroke-width="2" stroke-dasharray="2">
+      <circle cx="23" cy="23" r="23" stroke="none"/>
+      <circle cx="23" cy="23" r="22" fill="none"/>
+    </g>
+    <g id="Elipse_6250" data-name="Elipse 6250" transform="translate(248.5 2031.5)" fill="none" stroke="#707070" stroke-width="2" stroke-dasharray="2">
+      <circle cx="23" cy="23" r="23" stroke="none"/>
+      <circle cx="23" cy="23" r="22" fill="none"/>
+    </g>
+    <g id="Elipse_6256" data-name="Elipse 6256" transform="translate(590 2034.5)" fill="none" stroke="#707070" stroke-width="2" stroke-dasharray="2">
+      <circle cx="23" cy="23" r="23" stroke="none"/>
+      <circle cx="23" cy="23" r="22" fill="none"/>
+    </g>
+    <g id="Elipse_6647" data-name="Elipse 6647" transform="translate(590 2156.5)" fill="none" stroke="#707070" stroke-width="2" stroke-dasharray="2">
+      <circle cx="23" cy="23" r="23" stroke="none"/>
+      <circle cx="23" cy="23" r="22" fill="none"/>
+    </g>
+    <g id="Elipse_6269" data-name="Elipse 6269" transform="translate(1335.25 2039)" fill="none" stroke="#707070" stroke-width="2" stroke-dasharray="2">
+      <circle cx="23" cy="23" r="23" stroke="none"/>
+      <circle cx="23" cy="23" r="22" fill="none"/>
+    </g>
+    <g id="Elipse_6260" data-name="Elipse 6260" transform="translate(941.066 2089.5)" fill="none" stroke="#707070" stroke-width="2" stroke-dasharray="2">
+      <circle cx="23" cy="23" r="23" stroke="none"/>
+      <circle cx="23" cy="23" r="22" fill="none"/>
+    </g>
+    <g id="Elipse_6264" data-name="Elipse 6264" transform="translate(941.066 2152.5)" fill="none" stroke="#707070" stroke-width="2" stroke-dasharray="2">
+      <circle cx="23" cy="23" r="23" stroke="none"/>
+      <circle cx="23" cy="23" r="22" fill="none"/>
+    </g>
+    <line id="Línea_1299" data-name="Línea 1299" y2="331" transform="translate(222 1724)" fill="none" stroke="#707070" stroke-width="2" stroke-dasharray="2 4"/>
+    <line id="Línea_1310" data-name="Línea 1310" x2="2" y2="459.5" transform="translate(563.5 1720)" fill="none" stroke="#707070" stroke-width="2" stroke-dasharray="2 4"/>
+    <line id="Línea_1314" data-name="Línea 1314" y2="431.5" transform="translate(916.566 1744)" fill="none" stroke="#707070" stroke-width="2" stroke-dasharray="2 4"/>
+    <line id="Línea_1323" data-name="Línea 1323" x1="0.25" y2="319.5" transform="translate(1407.5 1744)" fill="none" stroke="#707070" stroke-width="2" stroke-dasharray="2 4"/>
+    <line id="Línea_1300" data-name="Línea 1300" x2="22" transform="translate(224 1798)" fill="none" stroke="#707070" stroke-width="2" stroke-dasharray="2 4"/>
+    <line id="Línea_1305" data-name="Línea 1305" x2="22" transform="translate(565.5 1798)" fill="none" stroke="#707070" stroke-width="2" stroke-dasharray="2 4"/>
+    <line id="Línea_1316" data-name="Línea 1316" x2="22" transform="translate(916.566 1796)" fill="none" stroke="#707070" stroke-width="2" stroke-dasharray="2 4"/>
+    <line id="Línea_1324" data-name="Línea 1324" x2="488.75" y2="0.5" transform="translate(918.75 1744)" fill="none" stroke="#707070" stroke-width="2" stroke-dasharray="2 4"/>
+    <line id="Línea_1302" data-name="Línea 1302" x2="22" transform="translate(224 1930)" fill="none" stroke="#707070" stroke-width="2" stroke-dasharray="2 4"/>
+    <line id="Línea_1306" data-name="Línea 1306" x2="22" transform="translate(565.5 1930)" fill="none" stroke="#707070" stroke-width="2" stroke-dasharray="2 4"/>
+    <line id="Línea_1311" data-name="Línea 1311" x2="22" transform="translate(916.566 1976)" fill="none" stroke="#707070" stroke-width="2" stroke-dasharray="2 4"/>
+    <line id="Línea_1301" data-name="Línea 1301" x2="22" transform="translate(224 1864)" fill="none" stroke="#707070" stroke-width="2" stroke-dasharray="2 4"/>
+    <line id="Línea_1307" data-name="Línea 1307" x2="22" transform="translate(565.5 1864)" fill="none" stroke="#707070" stroke-width="2" stroke-dasharray="2 4"/>
+    <line id="Línea_1315" data-name="Línea 1315" x2="22" transform="translate(916.566 1910)" fill="none" stroke="#707070" stroke-width="2" stroke-dasharray="2 4"/>
+    <line id="Línea_1303" data-name="Línea 1303" x2="22" transform="translate(224 1996)" fill="none" stroke="#707070" stroke-width="2" stroke-dasharray="2 4"/>
+    <line id="Línea_1308" data-name="Línea 1308" x2="22" transform="translate(565.5 1997)" fill="none" stroke="#707070" stroke-width="2" stroke-dasharray="2 4"/>
+    <line id="Línea_1707" data-name="Línea 1707" x2="22" transform="translate(565.5 2119)" fill="none" stroke="#707070" stroke-width="2" stroke-dasharray="2 4"/>
+    <line id="Línea_1312" data-name="Línea 1312" x2="22" transform="translate(916.566 2044)" fill="none" stroke="#707070" stroke-width="2" stroke-dasharray="2 4"/>
+    <line id="Línea_1304" data-name="Línea 1304" x2="22" transform="translate(224 2055)" fill="none" stroke="#707070" stroke-width="2" stroke-dasharray="2 4"/>
+    <line id="Línea_1309" data-name="Línea 1309" x2="22" transform="translate(565.5 2058)" fill="none" stroke="#707070" stroke-width="2" stroke-dasharray="2 4"/>
+    <line id="Línea_1706" data-name="Línea 1706" x2="22" transform="translate(565.5 2180)" fill="none" stroke="#707070" stroke-width="2" stroke-dasharray="2 4"/>
+    <line id="Línea_1313" data-name="Línea 1313" x2="22" transform="translate(916.566 2112)" fill="none" stroke="#707070" stroke-width="2" stroke-dasharray="2 4"/>
+    <line id="Línea_1317" data-name="Línea 1317" x2="22" transform="translate(916.566 2175)" fill="none" stroke="#707070" stroke-width="2" stroke-dasharray="2 4"/>
+    <line id="Línea_1318" data-name="Línea 1318" x1="22" transform="translate(1383.75 1795)" fill="none" stroke="#707070" stroke-width="2" stroke-dasharray="2 4"/>
+    <line id="Línea_1325" data-name="Línea 1325" y1="24" transform="translate(1167.75 1720)" fill="none" stroke="#707070" stroke-width="2" stroke-dasharray="2 4"/>
+    <line id="Línea_1319" data-name="Línea 1319" x1="22" transform="translate(1383.75 1927)" fill="none" stroke="#707070" stroke-width="2" stroke-dasharray="2 4"/>
+    <line id="Línea_1320" data-name="Línea 1320" x1="22" transform="translate(1383.75 1861)" fill="none" stroke="#707070" stroke-width="2" stroke-dasharray="2 4"/>
+    <line id="Línea_1321" data-name="Línea 1321" x1="22" transform="translate(1383.75 1993)" fill="none" stroke="#707070" stroke-width="2" stroke-dasharray="2 4"/>
+    <line id="Línea_1322" data-name="Línea 1322" x1="22" transform="translate(1383.75 2063.5)" fill="none" stroke="#707070" stroke-width="2" stroke-dasharray="2 4"/>
+  </g>
+</svg>

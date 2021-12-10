@@ -10,7 +10,7 @@
     
     img(src='@/assets/curso/t2/f1.jpg' alt='imagen relacionada' data-aos='flip-up').mb-5
 
-    p Para hablar de patrones, primero es necesario hablar de arquitectura de <em> software </em>. Esta consiste en una disciplina dentro del desarrollo de <em> software </em>. Como ya se sabe, este desarrollo es algo intangible y puede ser tan complejo como las necesidades que se quieren resolver, por lo tanto, es importante tener en cuenta que, cuando se piensa en la escalabilidad del <em> software </em> y su usabilidad, utilizando los recursos disponibles y sacándole el máximo provecho a esta arquitectura, posibilitando un ciclo de vida mucho más largo, se debe pensar que una aplicación de <em> software </em> es una especie de lego, donde todas sus piezas se encajan para poder cumplir con diversas funciones. 
+    p Para hablar de patrones, primero es necesario hablar de arquitectura de <em> software</em>. Esta consiste en una disciplina dentro del desarrollo de <em> software</em>. Como ya se sabe, este desarrollo es algo intangible y puede ser tan complejo como las necesidades que se quieren resolver, por lo tanto, es importante tener en cuenta que, cuando se piensa en la escalabilidad del <em> software </em> y su usabilidad, utilizando los recursos disponibles y sacándole el máximo provecho a esta arquitectura, posibilitando un ciclo de vida mucho más largo, se debe pensar que una aplicación de <em> software </em> es una especie de lego, donde todas sus piezas se encajan para poder cumplir con diversas funciones. 
     p Dentro de estos patrones de arquitectura, se encuentran diferentes tipos, que permiten generar <em> software </em> con mayor rendimiento. Algunos de estos son:
 
     Separador
@@ -66,9 +66,12 @@
           p Es una representación de los datos, maneja la lógica del negocio y la persistencia.
           .row.align-items-center
             .col-lg-4
-              p Accede a la capa de la base de datos.
-              p En el modelo se definen las reglas del negocio.
-              p Contiene la información extraída de la base de datos para después ser manipulada.
+              .vinetaBG
+                p.mb-0 Accede a la capa de la base de datos.
+              .vinetaBG
+                p.mb-0 En el modelo se definen las reglas del negocio.
+              .vinetaBG
+                p.mb-0 Contiene la información extraída de la base de datos para después ser manipulada.
             .col-lg-8
               figure
                 img(src='@/assets/curso/t2/f4.svg' alt='')
@@ -76,9 +79,12 @@
           p Se encarga de la interfaz de usuario, la interacción del usuario con el sistema y el despliegue de información.
           .row.align-items-center
             .col-lg-4
-              p Muestra la información solicitada al modelo.
-              p Recibe los eventos que ejecuta del usuario en la interacción de la vista y se conecta con el controlador.
-              p Recibe información del usuario para ser enviada al modelo y que sea almacenada.
+              .vinetaBG
+                p.mb-0 Muestra la información solicitada al modelo.
+              .vinetaBG
+                p.mb-0 Recibe los eventos que ejecuta del usuario en la interacción de la vista y se conecta con el controlador.
+              .vinetaBG
+                p.mb-0 Recibe información del usuario para ser enviada al modelo y que sea almacenada.
             .col-lg-8
               figure
                 img(src='@/assets/curso/t2/f5.svg' alt='')
@@ -86,9 +92,12 @@
           p El controlador no es más que el interlocutor entre la vista y el modelo, gestionando y adaptando la información entre ellas.
           .row.align-items-center
             .col-lg-4
-              p Recibe peticiones desde la vista por medio de eventos.
-              p Envía peticiones al modelo de datos de información.
-              p Organiza la información para el despliegue en la vista.
+              .vinetaBG
+                p.mb-0 Recibe peticiones desde la vista por medio de eventos.
+              .vinetaBG
+                p.mb-0 Envía peticiones al modelo de datos de información.
+              .vinetaBG
+                p.mb-0 Organiza la información para el despliegue en la vista.
             .col-lg-8
               figure
                 img(src='@/assets/curso/t2/controlador.svg' alt='')
@@ -225,21 +234,31 @@
             img(src='@/assets/curso/t2/f17.svg' alt='')
 
       .row.align-items-center.justify-content-center
-        .col-lg-auto.col-sm-10
+        .col-lg-auto.col-sm-10.hover
           figure
-            img(src='@/assets/curso/t2/f18.svg' alt='')
-        .col-lg-auto.col-sm-10
+            img(src='@/assets/curso/t2/f18.svg' alt='Agilidad')
+          .tarjeta.tarjeta--gris.onlyHover.p-4.mb-4.mx-auto(style='max-width:100%;clear:both;position:absolute;z-index:1')
+            p.mb-0 Los desarrolladores pueden trabajar con problemas más pequeños y lograr mejor su comprensión, “divide y vencerás”; además, un grupo de desarrolladores puede ser dividido por microservicios, para después integrar sus funcionalidades, agilizando el desarrollo.
+        .col-lg-auto.col-sm-10.hover
           figure
-            img(src='@/assets/curso/t2/f19.svg' alt='')
-        .col-lg-auto.col-sm-10
+            img(src='@/assets/curso/t2/f19.svg' alt='Escalado flexible')
+          .tarjeta.tarjeta--gris.onlyHover.p-4.mb-4.mx-auto(style='max-width:100%;clear:both;position:absolute;z-index:1')
+            p.mb-0 Se pueden agregar más funcionalidades sin ningún inconveniente.
+        .col-lg-auto.col-sm-10.hover
           figure
-            img(src='@/assets/curso/t2/f20.svg' alt='')
-        .col-lg-auto.col-sm-10
+            img(src='@/assets/curso/t2/f20.svg' alt='Sencillez en la implementación')
+          .tarjeta.tarjeta--gris.onlyHover.p-4.mb-4.mx-auto(style='max-width:100%;clear:both;position:absolute;z-index:1')
+            p.mb-0 Como se mencionó antes, la forma de desarrollar estos microservicios es más sencilla porque, al momento de centrarse en problemas más pequeños, permite que la comprensión sea mejor, se pueden entregar avances de forma continua y se pueden corregir errores a tiempo.
+        .col-lg-auto.col-sm-10.hover
           figure
-            img(src='@/assets/curso/t2/f21.svg' alt='')
-        .col-lg-auto.col-sm-10
+            img(src='@/assets/curso/t2/f21.svg' alt='Libertad tecnológica')
+          .tarjeta.tarjeta--gris.onlyHover.p-4.mb-4.mx-auto(style='max-width:100%;clear:both;position:absolute;z-index:1')
+            p.mb-0 Son aplicaciones pequeñas, que no siguen una misma arquitectura y pueden ser integradas a la aplicación de todas formas.
+        .col-lg-auto.col-sm-10.hover
           figure
-            img(src='@/assets/curso/t2/f22.svg' alt='')
+            img(src='@/assets/curso/t2/f22.svg' alt='Reutilización del código')
+          .tarjeta.tarjeta--gris.onlyHover.p-4.mb-4.mx-auto(style='max-width:100%;clear:both;position:absolute;z-index:1')
+            p.mb-0 Los microservicios pueden ser reutilizados en diferentes partes de la aplicación.
 
     Separador
     #t_2_5.titulo-segundo.color-acento-contenido
@@ -250,7 +269,7 @@
         figure
           img(src='@/assets/curso/t2/f23.svg' alt='')
       .col-lg-6
-        .cajon.color-primario.p-4
+        .cajon.color-primario.p-5
           p.mb-0 Una arquitectura de<em> software </em>describe los componentes básicos de un sistema de<em> software </em>y su combinación interna. En el marco del desarrollo de software, esta arquitectura es la decisión más temprana del diseño de una aplicación. Determina los criterios de calidad, como la mantenibilidad, modificabilidad, seguridad y rendimiento, además, le permite analizar de forma más clara cómo debe comportarse la aplicación que se va a desarrollar, teniendo en cuenta el acceso a ella y su capacidad.
 
     Separador
@@ -294,7 +313,7 @@
             p Refleja la estructura del lenguaje de programación. Permite al diseñador del<em> software </em>construir una estructura de programa relativamente fácil de modificar y ajustar a escala. Se basa en la bien conocida abstracción de procedimientos/funciones/métodos.
           .col-lg-5
             figure
-              img(src='@/assets/curso/t2/f27.svg' alt='')
+              img(src='@/assets/curso/t2/f27.png' alt='')
       .py-3.py-md-4(titulo='Arquitectura orientada a objetos')
         .row.align-items-center.justify-content-center
           .col-lg-5

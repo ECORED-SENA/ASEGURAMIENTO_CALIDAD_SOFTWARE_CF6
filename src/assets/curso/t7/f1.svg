@@ -1,15 +1,38 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="297.931" height="126.479" viewBox="0 0 297.931 126.479">
-  <g id="Grupo_106879" data-name="Grupo 106879" transform="translate(-802 -813.399)">
-    <g id="Rectángulo_45431" data-name="Rectángulo 45431" transform="translate(802 826.199)" fill="#b6f7ff" stroke="#12263f" stroke-linejoin="round" stroke-width="2">
-      <rect width="281" height="37" stroke="none"/>
-      <rect x="1" y="1" width="279" height="35" fill="none"/>
-    </g>
-    <g id="Rectángulo_45432" data-name="Rectángulo 45432" transform="translate(802 860.199)" fill="#b6f7ff" stroke="#12263f" stroke-linejoin="round" stroke-width="2">
-      <rect width="281" height="79" stroke="none"/>
-      <rect x="1" y="1" width="279" height="77" fill="none"/>
-    </g>
-    <path id="Trazado_217609" data-name="Trazado 217609" d="M6112-11005l16.034-12.8,279.672.246L6391.343-11005Z" transform="translate(-5308.775 11832.199)" fill="#4dd0e1" stroke="#12263f" stroke-linejoin="round" stroke-width="2"/>
-    <path id="Trazado_217610" data-name="Trazado 217610" d="M6408.93-11017.8l-16.49,13.12v111.359l16.49-13.92Z" transform="translate(-5310 11832.199)" fill="#4dd0e1" stroke="#12263f" stroke-linejoin="round" stroke-width="2"/>
-    <text id="Node" transform="translate(921 851.199)" fill="#12263f" font-size="18" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="0">Node</tspan></text>
-  </g>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.4.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 297.9 126.5" style="enable-background:new 0 0 297.9 126.5;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#B6F7FF;}
+	.st1{fill:none;stroke:#12263F;stroke-width:2;stroke-linejoin:round;}
+	.st2{fill:#4DD0E1;stroke:#12263F;stroke-width:2;stroke-linejoin:round;}
+	.st3{enable-background:new    ;}
+	.st4{fill:#12263F;}
+</style>
+<g id="Grupo_106879" transform="translate(-802 -813.399)">
+	<g id="Rectángulo_45431" transform="translate(802 826.199)">
+		<rect y="0" class="st0" width="281" height="37"/>
+		<rect x="1" y="1" class="st1" width="279" height="35"/>
+	</g>
+	<g id="Rectángulo_45432" transform="translate(802 860.199)">
+		<rect y="0" class="st0" width="281" height="79"/>
+		<rect x="1" y="1" class="st1" width="279" height="77"/>
+	</g>
+	<path id="Trazado_217609" class="st2" d="M803.2,827.2l16-12.8l279.7,0.2l-16.4,12.6H803.2z"/>
+	<path id="Trazado_217610" class="st2" d="M1098.9,814.4l-16.5,13.1v111.4l16.5-13.9V814.4z"/>
+	<g class="st3">
+		<path class="st4" d="M932.5,851.2h-2.6l-5.1-8.4v8.4h-2.6v-12.8h2.6l5.1,8.4v-8.4h2.6V851.2z"/>
+		<path class="st4" d="M934.3,846.4c0-0.9,0.2-1.8,0.5-2.5s0.9-1.3,1.6-1.7s1.5-0.6,2.4-0.6c1.3,0,2.3,0.4,3.1,1.2s1.3,1.9,1.4,3.2
+			l0,0.7c0,1.5-0.4,2.6-1.2,3.5s-1.9,1.3-3.3,1.3s-2.5-0.4-3.3-1.3s-1.2-2.1-1.2-3.6V846.4z M936.8,846.5c0,0.9,0.2,1.6,0.5,2.1
+			c0.3,0.5,0.8,0.7,1.5,0.7c0.6,0,1.1-0.2,1.4-0.7c0.3-0.5,0.5-1.2,0.5-2.3c0-0.9-0.2-1.6-0.5-2.1s-0.8-0.7-1.5-0.7
+			c-0.6,0-1.1,0.2-1.4,0.7C937,844.8,936.8,845.5,936.8,846.5z"/>
+		<path class="st4" d="M944.5,846.4c0-1.5,0.3-2.7,1-3.5s1.6-1.3,2.7-1.3c0.9,0,1.7,0.3,2.3,1v-4.9h2.5v13.5h-2.3l-0.1-1
+			c-0.6,0.8-1.4,1.2-2.4,1.2c-1.1,0-2-0.4-2.7-1.3S944.5,847.9,944.5,846.4z M947,846.6c0,0.9,0.2,1.6,0.5,2.1s0.8,0.7,1.4,0.7
+			c0.8,0,1.3-0.3,1.7-1v-3.8c-0.3-0.7-0.9-1-1.6-1C947.6,843.6,947,844.6,947,846.6z"/>
+		<path class="st4" d="M959.4,851.4c-1.4,0-2.5-0.4-3.4-1.3c-0.9-0.9-1.3-2-1.3-3.4v-0.2c0-1,0.2-1.8,0.6-2.6s0.9-1.3,1.6-1.7
+			c0.7-0.4,1.4-0.6,2.3-0.6c1.3,0,2.3,0.4,3.1,1.2c0.7,0.8,1.1,2,1.1,3.5v1h-6.1c0.1,0.6,0.3,1.1,0.7,1.5c0.4,0.4,0.9,0.6,1.6,0.6
+			c1,0,1.7-0.4,2.3-1.1l1.2,1.4c-0.4,0.5-0.9,1-1.5,1.3C960.9,851.2,960.2,851.4,959.4,851.4z M959.1,843.6c-0.5,0-0.9,0.2-1.2,0.5
+			c-0.3,0.3-0.5,0.8-0.6,1.5h3.5v-0.2c0-0.6-0.2-1-0.5-1.3C960,843.7,959.6,843.6,959.1,843.6z"/>
+	</g>
+</g>
 </svg>

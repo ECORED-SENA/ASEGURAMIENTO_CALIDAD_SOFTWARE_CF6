@@ -15,6 +15,14 @@
         figure
           img(src='@/assets/curso/t3/f1.svg' alt='imagen relacionada')
 
+    .row.align-items-center.justify-content-center.mb-5
+      .col-lg-auto(style='z-index:1')
+        figure
+          img(src='@/assets/curso/t4/f1.svg' alt='Atención' style='height:260px')
+      .col-lg-6
+        .p-4(style='background-color:rgba(77,208,225,.2);padding-left:50px !important;margin-left:-50px')
+          p.mb-0 Los patrones de comportamiento gestionan algoritmos, relaciones y responsabilidades entre objetos.
+
     Separador
     #t_3_1.titulo-segundo.color-acento-contenido
       h2 3.1 Estrategia
@@ -65,7 +73,8 @@
               em Invoker: 
               | elemento usado por los clientes y que le solicita al comando llevar a cabo una acción.
           .p-2.tarjeta.tarjeta--gris(y="57%" x="38.1%" numero="")
-            h5.mb-0 Cliente: invoca la ejecución de las acciones desde el Invoker.
+            h5.mb-0 Cliente: invoca la ejecución de las acciones desde el 
+              em Invoker.
           .p-2.tarjeta.tarjeta--gris(y="69.5%" x="42.8%" numero="")
             h5.mb-0 IComando: interfaz donde se especifican las operaciones a ejecutar.
           .p-2.tarjeta.tarjeta--gris(y="82.5%" x="47.4%" numero="")
@@ -84,7 +93,9 @@
     .col-lg-10.border12.pt-5.px-5.mx-auto(style='background-color:rgba(77,208,225,.25)')
       .row.align-items-center.justify-content-center
         .col-lg-5
-          p Para entender mejor este patrón, imagine el siguiente contexto: una persona (cliente) quiere hacer uso del televisor y, para poder realizar esto, hace todas las solicitudes de servicios por medio del control remoto (Invoker). El control remoto se comunica con una interfaz que se encarga de responder a las solicitudes de cada uno de los comandos que el usuario puede hacer, como, por ejemplo, prender el televisor, apagar el televisor, subir el volumen, etc. Cada comando realiza una acción particular sobre el televisor (Receptor).
+          p Para entender mejor este patrón, imagine el siguiente contexto: una persona (cliente) quiere hacer uso del televisor y, para poder realizar esto, hace todas las solicitudes de servicios por medio del control remoto 
+            em (Invoker)
+            | . El control remoto se comunica con una interfaz que se encarga de responder a las solicitudes de cada uno de los comandos que el usuario puede hacer, como, por ejemplo, prender el televisor, apagar el televisor, subir el volumen, etc. Cada comando realiza una acción particular sobre el televisor (Receptor).
         .col-lg-5
           figure
             img(src='@/assets/curso/t3/tv.svg' alt='imagen relacionada')

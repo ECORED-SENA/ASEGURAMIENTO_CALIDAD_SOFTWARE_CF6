@@ -17,6 +17,12 @@ $cacb: #F3F9FF
 .fcacb
   background-color: $cacb !important
 
+.slyder-a__bullets__item
+  &--active
+    background-color: $color-acento-contenido !important
+    border-color: $color-acento-contenido !important
+    opacity: 1
+
 //otros
 .bg1
   background-image: url('../assets/curso/bg1.svg')
@@ -35,6 +41,23 @@ $cacb: #F3F9FF
   background-size: 100%
   background-position: bottom center
   background-repeat: no-repeat
+
+.bg4
+  background-image: url('../assets/curso/bg4.jpg')
+  background-size: 100%
+  background-position: bottom center
+  background-repeat: no-repeat
+  border-radius: 1rem
+
+.vinetaBG
+  background-color: white
+  background-image: url('../assets/curso/vinetaBG.svg')
+  background-position: center left
+  background-size: 268px
+  background-repeat: no-repeat
+  min-height: 55px
+  margin: 1rem 0
+  padding: 1rem 1rem 1rem 60px
 
 .fRight
   float: right !important
@@ -102,3 +125,21 @@ $cacb: #F3F9FF
   .h470px
     height: 470px
     margin: 1rem auto
+
+.acordion
+  .tarjeta--azul
+    background-color: #4dd0e1
+    &.acordion__activo
+      background-color: rgba(77,208,225,.15)
+
+.hover
+  position: relative
+  .noHover
+    display: block
+  .onlyHover
+    display: none
+  &:hover
+    .noHover
+      display: none
+    .onlyHover
+      display: block
