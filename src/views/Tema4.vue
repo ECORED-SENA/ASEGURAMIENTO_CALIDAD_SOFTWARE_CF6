@@ -53,29 +53,29 @@
         figure
           img(src='@/assets/curso/t4/f3.svg' alt='imagen relacionada')
       .col-lg-7
-        .tarjeta.h470px.fcacb.p-5
-          p.mb-0 Este patrón de diseño permite las instancias de una familia de objetos relacionados o dependientes, sin necesidad de entrar en detalles particulares de su implementación, de forma que tanto el cliente como los elementos creados por la fábrica son totalmente independientes unos de otros.
-        .tarjeta.h470px.fcacb.p-5
-          p.mb-0 Este patrón define una interfaz de tipo fábrica, la cual se refina por medio de la creación de fábricas concretas, las cuales pueden producir diferentes tipos de objetos y en diferentes combinaciones, según las necesidades del cliente.
-        .tarjeta.h470px.fcacb.p-5
-          p Los elementos importantes de este patrón se describen a continuación (Landa, 2018c):
-          ul.lista-ul--color
-            li 
-              i.fas.fa-circle.cac
-              | Interfaz de la fábrica abstracta, la cual relaciona las operaciones de creación de los productos abstractos.
-            li 
-              i.fas.fa-circle.cac
-              | Fábricas concretas, las cuales implementan las operaciones de creación definidas en la interfaz de fábrica abstracta.
-            li 
-              i.fas.fa-circle.cac
-              | Interfaz de producto, la cual relaciona los comportamientos de los productos o elementos.
-            li 
-              i.fas.fa-circle.cac
-              | Productos concretos, los cuales implementan los comportamientos definidos en la interfaz de producto.
-        .tarjeta.h470px.fcacb.p-5
-          p.text-center En figura se puede ver cada uno de los componentes del patrón.
-          figure
-            img(src='@/assets/curso/t4/f4.svg' alt='Componentes del patrón')
+        AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
+          div(titulo="Fábrica piramidal")
+            p.mb-0 Este patrón de diseño permite las instancias de una familia de objetos relacionados o dependientes, sin necesidad de entrar en detalles particulares de su implementación, de forma que tanto el cliente como los elementos creados por la fábrica son totalmente independientes unos de otros.
+          div(titulo="Fábrica esférica")
+            p.mb-0 Este patrón define una interfaz de tipo fábrica, la cual se refina por medio de la creación de fábricas concretas, las cuales pueden producir diferentes tipos de objetos y en diferentes combinaciones, según las necesidades del cliente.
+          div(titulo="Fábrica abstracta")
+            p Los elementos importantes de este patrón se describen a continuación (Landa, 2018c):
+            ul.lista-ul--color
+              li 
+                i.fas.fa-circle.cac
+                | Interfaz de la fábrica abstracta, la cual relaciona las operaciones de creación de los productos abstractos.
+              li 
+                i.fas.fa-circle.cac
+                | Fábricas concretas, las cuales implementan las operaciones de creación definidas en la interfaz de fábrica abstracta.
+              li 
+                i.fas.fa-circle.cac
+                | Interfaz de producto, la cual relaciona los comportamientos de los productos o elementos.
+              li 
+                i.fas.fa-circle.cac
+                | Productos concretos, los cuales implementan los comportamientos definidos en la interfaz de producto.
+            p.text-center En figura se puede ver cada uno de los componentes del patrón.
+            figure
+              img(src='@/assets/curso/t4/f4.svg' alt='Componentes del patrón')
 
 </template>
 
